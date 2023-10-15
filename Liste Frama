@@ -1,0 +1,2781 @@
+
+
+Read me
+
+Bienvenue sur le PAD du Dictionnaire de la Cybersécurité et des Réseaux (NUVIS - 18 décembre 2015)!
+
+L'objet de ce PAD est de vous permettre de faire évoluer le contenu du Dictionnaire, un mot vous manque ? une définition vous semble incomplète ? vous souhaitez proposer des améliorations?
+ce PAD est le vôtre.
+
+Merci de respecter les contributions des autres utilisateurs et de conserver l'esprit de vulgarisation et d'ouverture qui a piloté à la rédaction de ce dictionnaire.
+
+Merci !
+
+
+
+Remarques génér2ales
+
+//placer ici vos remarques d'ordres général//
+De Christophe Réville :
+    Rien sur le facteur Humain : voulez vous une contribution ?, cr@an2v.org
+
+
+De Gil Bates
+Correction de typos (access, address, naming, accents en anglais, etc.) et proposition de nouvelles entrées
+//
+Ne pas hésiter à donner quelques précisions sur les entrées que vous proposez, surtout les acronymes ! merci :)
+//
+
+------------------------------------------------------------------------))
+INDI
+1G
+2D
+2FA
+2G
+3D
+3G
+4G
+5G
+6LowPAN
+------------------------------------------------------------------------)) 
+ A
+------------------------------------------------------------------------))
+A3
+A5
+A8
+Accès
+(Access- hit)
+Qualité qui permet de bénéficier d’un service particulier sous certaines conditions. Ainsi pour bénéficier d’une connexion Internet l’usager doit solliciter un fournisseur d’accès Internet (FAI*). En matière de télécommunication, il existe plusieurs type d’accès, de mécanisme d’accès ainsi que des techniques de contrôle d’accès*. L’accès désigne également le fait d’engager une consultation d’un document sur un serveur[1]. Ainsi, le nombre d’accès est une mesure courante de l’audience d’un site Internet ou de la fréquence de consultation d’un document. Dans cette approche, le terme en anglais le plus juste est hit.
+
+[1] Journal Officiel du 1er septembre 2000.
+
+Access Control List · 14, 387X
+Accès de base · 13
+Accès direct · 13
+Accès multiple · 13, 24
+Accès Multiple par Répartition en Code · 24
+Accès Multiple par Répartition en Fréquence · 24
+Accès multiple par répartition temporelle · 24
+Accès primaire · 13. X
+Accès séquentiel · 14
+Access · 13
+Access Control · 19, 64, 85, 388
+Access network · 310
+Access Point · 286
+Access provider · 184
+Accord cadre sur les technologies de l’information · 226
+Acheminement · 14
+ACK · 14, 346
+Acknowledgement · 14 X
+ACL · 14
+Acquittement · 14
+ACSE · 64
+ACSSI // intégré 1 X
+Action d’exploitation informatique · 15, 81
+Action d’influence · 15
+Action d’information · 16
+Action de lutte informatique défensive · 15
+Action de lutte informatique offensive · 15
+Ad hoc network · 310
+Additif · 16
+Add-on · 16
+Address Resolution Protocol · 31// X
+Address · 17
+Address spoofing · 366
+Administration de réseau · 16
+ADP · 354
+Adressage · 16, 17, 272
+Adressage absolu · 16
+Adressage hiérarchique · 16
+Adressage logique · 17
+Adressage physique · 17
+Adresse · 17, 19
+Adresse IP · 17
+Adresse MAC · 19
+Adresse réticulaire · 365
+adresse universelle · 19, 365
+Adresse URL · 19
+ADSL · 20
+Advanced Encryption Standard · 20, 387
+Advanced Evasion Techniques · 20
+Advanced Persistant Threat · 29, 387
+Advanced Research Projects Agency Network · 32
+AES · 20
+AET · 20
+AFF (Advanced Forensic Format) // entrée 2 en cours X
+Affaiblissement du signal · 20
+AFNIC // entrée 3 X
+AFNOR · 20
+AFP · 258
+AfriNIC · 307
+Agence Nationale de la Sécurité des Systèmes d’Information ·28, 298, 387
+Agence Nationale des Fréquences · 25
+Agent · 21, 252
+agent intelligent · 21
+agent logiciel · 21
+Agile (méthode) XX
+Agrément  de sécurité XX
+AGLXX
+AH · 223
+AIXX
+Air gap · 21
+air wall · 21
+AléaXX
+Algorithme · 21
+algorithme de Bellman-Ford · 23
+Algorithme de Dijkstra · 22
+Algorithme de Karn · 22
+Algorithme de routage · 22, 23, 269
+Algorithme de routage à état de liaisons · 22
+Algorithme de routage par vecteur de distance · 23
+Alice · 21, 55, 74, 113, 114, 115
+Allocation de ressources · 23
+Allocation mobile · 237
+Alternat · 196
+American Standard Code for Information Interchange · 34, 387
+Amorce · 23
+AMRC · 24
+AMRF · 24
+AMRT · 24
+Analog(ue) signal · 327 XX
+Analogic · 24
+Analogique · 24
+Analyse de trafic XX
+Analyse intelligente des données · 104
+AnalyticsXX
+Anchor · 25
+Ancre · 25, 203
+ancre de lien · 25
+Android · 25, 190
+ANFR · 25
+Anneau à jeton · 352
+Anonymat · 25
+Anonymisation · 26
+Anonymity · 25
+Anonymous · 27
+ANSIxx
+ANSSI · 28
+Antivirus · 28
+API · 28
+APNIC · 307
+App Store
+Appairage · 29, 280
+Apple Filing Protocol · 258
+Application · 29
+Application Common Service Elements · 64
+Application Programming Interface · 28
+Apprentissage automatique · 238
+APT · 29, 387
+AQSSI (Autorité Qualifiée de Sécurité des Systèmes d'Information) XX
+Arbre recouvrant · 334
+Architecture Orientée Service · 332
+archivage · 31
+Archive · 31
+Argon2xx
+ARIN · 307
+ARMxx
+Arobase · 34
+ARP · 31, 32, 239, 253
+ARP poisoning · 32
+ARP spoofing · 32
+ARPANET · 32, 33, 103, 104
+Artificial Intelligencexx
+AS · 41, 49, 50, 126, 127, 164, 165, 205, 233, 235, 306
+ASCII · 34, 272, 387
+ASN.1xx
+Assemblage / désassemblagexx
+Assembler · 34
+Assembleur · 34
+Association Française de NORmalisation · 20, 38-48 
+Astroturfing 
+Asymmetric · 35xx
+Asymétrie · 35
+Asymmetrical Digital Subscriber Line · 20, 387
+Asynchronous Transfer Mode · 246f
+Asynchronus Transmission Mode · 247
+ATM · 176, 246, 247, 251, 272, 285
+at-sign · 34
+Attachment · 282
+Attack · 36, 62, 80, 95, 328, 389
+Attack signature · 328
+Attaque · 36
+Attaque par canal auxiliaire · 36
+attaque par force brute · 58, 357
+Attaque par point d’eau · 37
+Attaque par réflexion ·31 331
+Attribution · 38
+Audience · 38
+Audit · 38, 39, 90, 280
+Auditabilité · 40
+Authentication Header · 223
+Authenticité · 40
+Authenticity · 40
+Authentification · 40
+Authentification unique · 337
+Autoclave · 41
+Autocommutateur · 222
+Autocommutateur privé · 222
+Autocommutateur téléphonique privé · 277
+Automatic data processing · 354
+Autonomous System · 41
+Autorité d’homologation · 42
+Autorité de certification · 42
+Availability · 115
+Avatar · 42
+AXFR · 42, 43, 356
+Ayant droit · 43
+
+--------------------------------------------------
+B
+---------------------------------------------------
+Bac à sable · 320
+Back up · 320
+Backbone Internet · 45
+Backdoor · 45
+Backward Error Correction · 314
+Backward explicit congestion notification · 49
+Bad USBXX
+Baie · 301
+Balayage de ports · 45, 321
+Balisage · 46
+Balise · 46
+Balise (voie) · 46
+BAN · 55, 388
+bande C · 373XX
+bande EXX
+bande LXX
+Bande de fréquence banalisée · 47
+bande Ka · 373
+bande Ku · 373
+Bande passante · 47
+bande SXX
+bandwidth · 47
+bande XXX
+Banque de données · 47
+Barrière · 48
+Base 64XX
+Base de données · 48, 243
+Base Station Subsystem · 58
+Bash · 48
+Basic (langage)X
+Basic Input Output System · 53
+Basic Rate Interface · 13
+BATX (Baidu, Alibaba, Tencent, Xiaomi)XX
+BaudXX
+BDDXX
+beacon · 46
+Beacon Channel · 46
+Beaconing · 46
+BEASTXX
+BEC · 314
+BECN · 49, 177
+Beidou (constellation)xx
+Bell-LaPadulaXX
+BERXX
+best effort · 299
+BGP · 41, 49, 50, 209, 272, 293, 388
+BI · 59
+BibaXX
+Bibande · 50
+BibliothèqueXX
+Bibliothèque de l’infrastructure des technologies de l’information · 227
+Bibliothèque de liens dynamiques · 116
+Bi-cléxx
+Bidirectionnel non simultané · 196
+Bidirectionnel simultané · 186
+Bien informationnel · 51
+Big Brother · 51
+Big data · 51, 118
+BillettiqueXX
+billing · 210
+Bimode · 52
+Binaire · 52
+Binary · 52
+BiométrieXX
+BIOS · 53, 241, 315
+Bitxx
+Bitcoin · 53
+BitmapXX
+blackhat · 68
+Blade computerxx
+BLEXX
+BLOBXX
+BlocXX
+BlockchainXX
+blog · 27, 54, 77
+blogger · 54
+blogosphere · 54
+Blogosphère · 54
+Blogue · 54
+Blogueur · 54
+Blue Screen of Death
+Blue Team
+Bluetooth · 54
+Bob · 55
+Body Area Network · 55, 388
+Bogue · 55
+Bomb (Turing)
+Bombardement de courriels · 56
+Bombe logique · 56
+bombe programmée · 56
+Bookmark · 330
+Boot · 23, 241, 394
+Bootstrap
+Border Gateway Protocol · 49
+Borne WiFi publique · 201
+Bot
+Botnet · 56, 311
+Boucle locale · 56
+Bourne Again Shell · 48
+Box
+Brassage
+Breach · 175
+BREACH
+Bribe · 57
+Bridge · 287
+Broadcast · 57, 259, 316, 395
+Brouillage · 58
+Browser · 26, 258
+Brute force · 58
+brute-force attack · 58
+BSD
+BSS · 58, 59, 217, 274, 314
+BTS · 59, 66, 337
+Buffer overflow · 110
+Bug · 55
+Bureautique
+Bus · 59, 366
+Bus série universel · 366
+Business Intelligence · 59
+Buzz · 59
+Byte · 268
+----------------------------------------------------------------
+C
+--------------------------------------------------------------------
+C2 (Command and Control)
+C (langage)
+C++
+C#
+CA · 42, 283, 388
+Câble (types)
+Câblage · 61
+Cache · 61
+cache ARP · 32
+CAdES
+Cadre d’application · 184
+cadriciel · 184
+Cage de Faraday
+CALID · 62
+CAN (bus)
+Canal caché · 62
+Canal de fréquence · 62
+Canal de transmission · 62, 372
+Canari
+CAPEC · 62, 238, 338
+capture d’écran · 291, 332
+Capture The Flag · 63
+Caractérisation · 63
+Carrier · 289, 376
+Carrier Sense Multiple Acces with Collision Detection · 131,169, 389
+Carte à puce
+Carte électronique · 63
+Carte fille · 63
+Carte mère · 63
+Carte réseau · 64, 261
+Cartouche
+Cascading Style Sheets · 92, 389
+CASE · 64
+CB · 47
+CBAC · 64, 388
+CBC · 65, 388
+CBR · 65, 369, 388
+CC · 89, 90
+CCC · 69, 388
+CCITT · 322, 381
+CCMP · 378
+CDMA · 14, 24, 177, 212, 224, 388
+CDN · 65, 388
+CDROM
+CEI · 47, 65, 208
+Cell · 65
+Cellule · 65
+CEM
+CEN · 21, 132, 170, 263
+Central Processing Unit · 292
+Centre d’Analyse et de Lutte Informatique Défensive · 62
+Centre d’Evaluation de la Sécurité des Technologies de l’Information · 67
+Centre de commutation mobile · 189
+Centre de commutation radio mobile · 66, 251
+Centre de traitement de données · 104
+Centronix
+CERT · 66, 388
+Certificat · 67
+Certificate · 67
+Certification Authority · 42
+Certification de sécurité · 67
+Certification de sécurité de premier niveau · 68
+CESTI · 67
+channel · 36, 46, 62, 116, 372
+Chaos Computer Club · 69
+Chapeau blanc · 68
+chapeau noir · 68
+Characterization · 63, 338
+Charge · 210, 279
+Charge active · 279
+Charge utile · 279
+Chat · 73
+chat room · 73
+Cheval de Troie · 69
+Chien de garde · 69
+Chiffrement · 70
+Chiffrement par enchaînement des blocs · 65
+Chinese Wall
+chip · 57, 295
+CHR (Chatham House Rule)
+Chroot Jail · 72
+Cible · 72
+CIDR · 372
+CIFS · 258
+CIL
+CIP (Critical Infrastructure Protection)
+Cipher Block Chaining · 65
+Circuit · 72, 73, 78
+Circuit switching · 78
+Circuit virtuel · 73
+Circuit virtuel commuté · 73
+CISC
+CISO (Chief Information Security Officer)
+Citizen’s band · 47
+Clamp
+Class of Service · 299
+Classified Information · 213
+Classless Inter-Domain Routing · 372
+Clavardage · 73
+clavardoir · 73
+Clavier
+Clavier virtuel
+Clé de chiffrement · 73
+clé privée · 42, 67, 74
+clé publique · 67, 74
+Clé symétrique · 74
+Clé USB · 75
+Clés asymétriques · 74
+Cliché · 122
+Client · 75
+Cloisonnement
+Clonage de serveur DNS · 75
+Clonage de SIM
+Cloud computing · 75
+CLUF
+CMM
+CMMI
+CMS · 76
+CNA · 80, 81, 389
+CND · 80, 81
+CNE · 80, 81, 389
+CNIL · 76, 389
+CNO · 80, 389
+CoAP
+Code · 77
+Code barre
+Code correcteur
+Code Division Multiple Access · 14, 24, 388
+Code malveillant · 77
+Code point · 286
+code source · 39, 77, 79, 191, 259, 269, 312, 321
+Codec
+Codeword
+cœur de réseau · 311
+COFF
+Coffre fort de clés
+COFRAC · 68, 298
+Colossus
+COMINT · 309
+Comité consultatif international téléphonique et télégraphique · 381
+Comité Européen de Normalisation · 132, 170, 263
+Comité Français d’Accréditation · 68, 298
+Comment · 77, 398
+Commentaire · 77
+Commission Electrotechnique Internationale · 47, 65
+Commission Nationale Informatique et Liberté · 76, 389
+Common Application Services Elements · 64
+Common Attack Pattern Enumeration and Classification · 62
+Common criteria · 90
+Common Internet File System · 258
+Common Platform Enumeration · 88
+Common Technical Regulation · 93
+Common Vulnerability Enumeration · 93
+Common Vulnerability Scoring System · 93
+Common Weakness Enumeration · 94
+Communauté · 78
+Communication dans un champ proche · 260
+COMmunication INTelligence · 309
+Communications électroniques · 79
+COMmunications SECurity
+Community · 78
+Community manager · 188
+Commutation d’étiquette · 344
+Commutation de circuits · 78
+Commutation de paquets · 78
+Commutation de paquets rapide · 176
+COMP128
+Compilateur
+Compile · 79
+Compiler · 35, 79
+Complexité (théorie de la)
+Compression de données (avec ou sans perte)
+Compromission · 80
+Computer Emergency Response Team · 66
+Computer Network Attack · 80
+Computer Network Defense · 81
+Computer Network Exploitation · 80, 81
+Computer Network Operations · 80
+Computer Security Incident Response Team · 67, 92
+Concentrateur · 81
+Condensat
+Confiance · 81
+Confidentialité · 82
+Confidentiality · 82
+Conflict · 83
+Conflit · 83
+Connecteur · 84
+Connection Less Network Service · 247
+Connection oriented communication · 246
+Connexion · 84, 272
+Constant Bit Rate · 65, 369, 388
+Constat d’audit · 84, 90
+Content · 65, 76, 84, 91, 388
+content curation · 93
+Content Delivery Network · 65, 388
+Content Management System · 76
+Conteneur
+Contenu · 84, 281
+Contournement de la politique de sécurité · 84
+Contrôle d’accès · 85, 237
+Contrôle d’accès au support · 237
+Contrôle d’Accès Unifié · 361
+Contrôle en profondeur des paquets · 120
+Contrôle parental · 85
+Convention d’audit · 85
+Convergence · 85
+Cookie · 85, 349
+Coprocesseur
+CORBA
+Core network · 311
+Corruption · 86
+CoS · 299
+COTS
+Couche physique · 86
+couche réseau · 310
+Counter mode, CBC Mac Protocol · 378
+Coupe-feu · 87
+Courant Porteur en Ligne · 89
+Courbe elliptique
+Courriel
+Courrier électronique · 88
+Covert channel · 62
+CPE · 88
+CPL · 89
+CPS (Cyber Physical System)
+CPU · 292
+CRAMM
+CRC
+Creative Commons · 89
+Créneau temporel · 89
+CRIME
+Critère d’audit · 90
+Critères communs · 90
+Critical infrastructure · 268
+CRL
+CRM
+Cross Site Scripting · 90
+Crowdfunding · 11, 91
+Crowdsourcing · 91
+CRT
+Cryptanalyse · 92
+Cryptanalysis · 92
+Cryptographic period
+Cryptographie · 92
+Cryptographie à courbe elliptique
+Cryptography · 92, 284, 397
+Cryptolocker · 303
+Cryptologie · 92
+Cryptology · 92
+Cryptovirus
+CSIRT · 67, 92
+CSMA/CD · 131, 169, 389
+CSP (Cryptographic Service Provider)
+CSPN · 67, 68
+CSS · 92, 93, 259, 389
+CTF · 63
+CTR · 93
+Curation · 93
+CVE · 93, 389
+CVSS · 93, 374
+CWE · 94
+Cyber · 94, 95, 96
+Cyber kill chain
+Cyber intelligence · 308
+Cyber résilience · 101
+Cyberattaque · 95
+Cybercommand · 96
+Cybercriminalité · 96
+Cybercriminality · 96
+Cyberdefence · 96
+Cyberdéfense · 96
+Cyberdéfense militaire · 97
+Cyberdeterrence · 97
+Cyberdissuasion · 97
+Cyberespace · 98
+Cyberguerre · 100
+Cyberharcèlement · 101
+Cyberprotection · 101
+Cybermalveillance
+Cyberrésilience · 101
+Cybersécurité · 101
+Cybersecurity · 101
+Cyberspace · 80, 98
+Cyberspace Operations · 80
+Cybersquat · 102
+Cybersquatting · 102
+Cyberstalking · 101
+Cyberwar · 100
+CYBINT · 308
+------------------------------------------------------------------------------------------------------------
+D
+-------------------------------------------------------------------------------------------------------------
+Dark Fiber · 178
+Darknet · 103
+Darkweb
+DARPA · 104, 389
+Dash7
+Data · 104, 111, 116, 118, 132, 133, 169, 170, 199, 280,320, 322, 389, 397, 399
+Data bank · 47
+Data base · 48
+Data center · 104
+Data circuit terminating equipment · 184
+Data Communication Equipement · 132, 169, 170
+data curation · 93
+Data Encryption Standard · 111
+Data mining · 104
+Data scientist · 105
+Data Terminal Equipement · 133, 170
+Data terminal equipment · 184
+Data warehouse · 129, 167
+Datagram · 105, 302, 347, 362, 400
+Datagramme · 105
+Daughter board · 63
+Daughtercard · 63
+Davies, Donald · 33
+DBA
+DCE · 132, 169, 170, 184
+DDOS · 37, 120
+Deadlock
+Debian
+Débit · 106
+Débit variable · 369
+Débordement de pile
+Déception · 106
+Déchiffrement · 107
+Decipher · 107
+Décrypter · 107
+Decryption · 107
+DECT · 107
+Deep fake
+Deep Packet Inspection
+Deep Web
+Défaçage · 107
+Défacement · 107
+Defacing · 107
+Défaut · 108
+DEFCON · 108, 389
+Défense en profondeur · 108
+Defense in depth · 108
+Défiguration · 107
+Dématerialisation · 109
+Demilitarized zone · 116
+Démodulateur · 248
+Démultiplexage · 110
+Demultiplexing · 110
+Déni de service · 109
+Denial of service · 37, 109, 120
+Dépassement ou débordement de mémoire · 110
+DER
+Dérivation de clé
+DES · 111
+Désert numérique
+Désinformation · 111
+Détection · 111, 208
+Détection d’erreur · 112
+Detection rules · 305
+Détournement de DNS · 112
+Détournement de domaine · 112
+Détonation de virus
+DevOps
+DH (Diffie-Hellman)
+DHCP · 113
+Dirac
+Die · 295
+differenciated service · 299
+Diffie-Hellman · 113
+Diffusion de Rayleigh · 115
+Diffusion générale · 57
+Diffusion groupée · 252
+Digital · 20, 224, 265, 291, 387, 389, 392
+Digital Enhanced Cordless Telecommunication · 107, 389
+Digital proof · 291
+Digital Right Management · 121
+Digital Rights Management · 188
+Digital signal · 328
+Digital Signature Standard · 122
+Digital Subscriber Line · 121, 264, 382
+Digital Subscriber Line Multiplexer · 121
+Digitizing · 266
+Diode (réseau)
+Direct access · 13
+Directory · 309, 393
+Dispersion · 115
+Disponibilité · 115
+Disque dur · 116
+Disquette
+Distorsion · 300
+Distribué · 116
+Distributed · 37, 116
+Distributed denial of service · 37
+Directive NIS
+DivX
+DLCI · 116
+DLP
+DLL · 116, 389
+DMA
+DMCA
+DMZ · 116, 117
+DNS · 19, 117, 390
+DNS Pharming · 75, 112
+DNS Tunneling · 112
+DNSSEC · 117
+Domain name · 263
+Domain Name System · 117, 288, 390
+Domaine · 117
+Domaine de premier niveau · 352
+Domotique · 118
+Dongle
+donnée à caractère personnel · 119
+Données · 118
+Données de connexion
+Données de masse · 51
+Données massives · 118
+Données ouvertes · 119
+Données personnelles · 119
+Données sensibles · 119
+Dorsale · 45, 119
+Dorsale Internet · 45
+DOS · 37, 109, 120
+DOS (MSDOS)
+Downlink · 120, 202
+Download · 202, 348
+Doxing · 120
+DPA (Differential Power Analysis)
+DPD (Délégué à la Protection des Données)
+DPI · 120, 121, 390
+DPO (Data Protection Officer)
+DRAM
+Drapeau · 121
+Driver · 282
+DRM · 121, 188
+DROWN
+DSL · 121
+DSLAM · 121, 264
+DSA
+DSI
+DSS · 122
+DSSS
+DTE · 133, 170, 184
+DTLS
+Dual band · 50
+Dual mode · 52
+Dump · 122
+Duplex · 122, 186, 196
+Durée de vie · 106, 358
+DVB
+DVD(ROM)
+Dynamic Host Configuration Protocol · 113
+-------------------------------------------------------------------------------------
+E
+-------------------------------------------------------------------------------------
+EAL · 90
+EAP · 124, 161
+eBGP · 49, 50
+EBIOS · 124, 125, 126, 162, 163, 267, 390
+ECB
+ECC
+Échantillonnage · 126, 163, 266
+Ecran
+EDI
+Éditeur de liens
+EEPROM
+EFF · 126, 164
+Effacement (sécurisé)
+EFI
+EFS
+EGNOS
+EGP · 126, 164
+EI · 15
+eIDAS
+EIGRP · 127, 164, 165
+EIR · 127, 165, 194, 390
+Electromagnetic Spectrum · 334
+Electronic board · 63
+Electronic communications · 79
+Electronic Fontier Foundation · 126, 164
+ELectronic INTelligence · 309
+Electronic signature · 329
+Elévation de privilège · 128, 165
+ELF
+ELINT · 309
+E-mail · 88
+e-sport
+Emacs
+Embrouillage · 128, 165
+EMC
+Émetteur – récepteur · 355
+Emoticône
+Empoisonnement de cache ARP · 32
+Empreinte · 198
+EMS
+EMSEC
+Emulateur
+Emulation · 128, 166
+EMV
+En ligne · 128, 166
+Encapsulating Security Payload · 223
+Encryption · 20, 70, 387
+Encryption key · 73
+Enhanced Interior Gateway Routing Protocol · 127, 164
+ENIAC
+ENISA · 129, 166, 390
+EnOcean
+Enregistreur de frappe · 129, 167, 234, 236
+Entrepôt de données · 129, 167
+Entreprise de Service du Numérique · 130, 168
+Envoi individuel · 364
+Equilibrage de charge
+Equipement de Terminaison de Circuits de Données · 132, 169
+Equipement Identity Register · 127, 165
+Equipement Terminal de Traitement de Données · 133, 170
+E-réputation · 130, 167
+EPROM
+Erlang · 130, 167
+ERP
+Error Rate · 344
+ESN · 130, 168, 213, 336
+ESP · 223
+ESSID · 46, 131, 168
+Etalement de spectre · 178, 335
+Etalement de spectre par saut de fréquence · 178
+Etat de l’art · 131, 168
+ETCD · 132, 169, 170
+Ethernet · 131, 169, 176, 272
+Ethernet commuté · 132, 169
+Ethical hacking · 132, 169
+Étiquette du Net · 132, 169
+ETSI · 132, 170, 210, 211
+ETTD · 133, 170
+EULA
+Euler (formule)
+European Network for Information Security Agency · 129, 166,390
+European Telecommunications Standard Institute · 132, 170
+Evaluation Assurance Level · 90
+Evaluation des besoins et identification des objectifs de sécurité · 125, 162
+Evanouissement · 133, 170
+Evasion de fréquence
+Eve (en complément d'Alice et de Bob) :) merci !
+Evénement lié à la sécurité de l’information · 133, 171
+Evil Maid (Attack)
+Excess Information Rate · 127, 165
+eXclusive OR · 383
+Executable file · 179
+Exfiltration · 134, 171
+Exploit · 134, 171
+Exploitation · 80, 134, 172, 389
+Exploration des données · 104
+Exponentiation
+Exposé · 135, 172
+Extended Service Set Identifier · 131, 168
+Extensible Authentication Protocol · 124, 161
+eXtensible Link Language · 382, 402
+eXtensible Markup Language · 382, 402
+eXtensive Messaging and Presence Protocol · 229
+exterior BGP · 49
+Exterior Gateway Protocol · 126, 164
+Externalisation · 135, 172
+Extranet · 135, 172
+Extreme programming
+-------------------------------------------------------------------
+F
+-----------------------------------------------------------------------
+factorisation
+facturation · 200, 210, 274, 280
+Fading · 133, 170, 171
+FAI · 175
+Faille · 175
+Faisceau Hertzien · 176, 177
+Fake News
+Fanion · 176
+Faradisation
+Fast Basic Service Transition · 227
+Fast Ethernet · 176
+Fast Packet Switching · 176
+FAT
+Fault tolerance · 352
+Fax
+FDM · 176
+FDMA · 14, 24, 176, 390
+FEC · 177, 251
+FECN · 49, 177
+Fedora
+Femtocell · 177
+Fenêtre contextuelle · 177
+Feuilles de styles en cascade · 92
+FH · 176, 177
+FHSS · 55, 178
+Fiber To The Home · 264
+Fibre monomode · 331
+Fibre noire · 178
+Fibre optique · 178
+Fichier exécutable · 179
+FIFO · 179
+File Transfert Protocol · 185
+Filoutage · 179
+Filter · 179
+Filtrage · 179
+Financement participatif · 91
+FIPS
+Firewall · 87, 179, 279
+FireWire · 180
+Firmware · 180
+FIRST
+First in First out · 179
+FISINT · 309
+flag · 121, 176
+Flame · 180
+Flash (Adobe)
+Flash (mémoire)
+Flop
+Flow · 106
+Flux · 339
+FM · 181, 391
+FNTC · 82
+FO
+Follower · 182, 340
+Fonction de hachage · 182, 196
+Fonction de sécurité · 182
+Fora · 183
+Foreign Instrumentation Signal INTelligence · 309
+Forensic · 183
+Forensique · 183
+Format · 183, 231
+Formatter
+Forme · 183, 365
+Forum · 183
+Forward Explicit Congestion Notification · 49, 177
+Forwarding Equivalence Class · 177
+Fournisseur d’accès · 183
+FOVI
+FPGA
+FPS · 176
+FPU
+FQDN · 263
+Fracture numérique
+frame · 116, 127, 164, 355
+Frame Relay · 184, 307
+frame tagging · 224
+Framework · 29, 184, 279, 326
+Freeware · 184, 188
+Fréquence · 185
+Fréquence d'Echantillonnage · 185
+Frequency · 14, 24, 62, 178, 181, 185, 268, 313, 376, 390,391, 396, 398
+Frequency channel · 62
+Frequency Division Multiple Access · 24, 176, 376, 390
+Frequency Division Multiplexing · 176, 268, 396
+Frequency Hopping Spread Spectrum · 178
+Frequency Modulation · 181
+FTP · 185, 272
+FTTH · 264
+Fuite d’information · 186
+Fuite de mémoire
+Full-duplex · 186
+Fully Qualified Domain Name · 263
+Fuzzing
+----------------------------------------------------------------------------------------------
+G
+----------------------------------------------------------------------------------------------
+G.711
+GAFAM
+Galiléo · 192
+Gamer
+Gartner quadrant
+Gateway · 41, 49, 187, 188, 388, 392
+Gateway Mobile Switching Center · 189, 391
+Gaussian Minimum Shift Keying · 189, 391
+GDN · 188
+GDPR (General Data Protection Regulation)
+Generic Routing Encapsulation · 192
+Génération de clé
+Gentoo
+Génie Logiciel
+Gestion de clé
+Gestion des droits numériques · 188
+Gestionnaire de communauté · 188
+Gestion des identités
+GGSN · 188
+GHDB · 191
+GIF
+Gigabit Ethernet · 189
+Gigogne (prise)
+Gigue · 189, 230
+Git
+GIX · 189
+Global Internet eXchange · 189
+Global Packet Radio System · 191
+Global Positioning System · 191, 342
+Global System for Mobile communications · 193
+Glonass · 192
+GMSC · 189, 391
+GMSK · 189, 391
+GNSS
+GNU
+Going viral · 281
+Google · 104, 189, 190, 191, 305, 356
+Google Dorks · 191
+Google Hacking DataBase · 191
+GPL
+GPRS · 188, 191, 391
+GPS · 191, 342
+GPU
+Graine (cryptographique)
+Gratuiciel · 184, 188
+Gravité · 192
+GRE · 192
+Growth Hacking: 
+Le terme regroupe les mots anglais growth (croissance) et hacking (détournement-modification) il est employé pour qualifier un ensemble de technique marketing dont l'objectif est de favoriser le développement d'une start up.
+Le growth hacker tente d’optimiser les metrics AARRR (L'acquisition, l'activation, la retention, le referral et bien sûr le revenu) par tous les moyens, en mettant en place des expériences jusqu’à ce qu'il trouve la ou les pistes qui permettent de faire grossir sa start-up et puis les automatise/les systématise.
+Le Growth Hacking est utilisé, notamment, par les entreprises de e-services suivantes Airbnb, Facebook, Dropbox, Groupon, Instagram, LinkedIn, Pinterest, Twitter, Udemy, YouTube, etc.
+GSM · 59, 132, 170, 188, 189, 191, 193, 194, 391
+guaranteed service · 299
+----------------------------------------------------------------------
+H
+----------------------------------------------------------------------
+H.264
+H.264, ou MPEG-4 AVC (Advanced Video Coding), ou MPEG-4 Part 10, est une norme de codage vidéo développée conjointement par l'UIT-T Q.6/SG16 Video Coding Experts Group (VCEG) ainsi que l'ISO/CEI Moving Picture Experts Group (MPEG) et est le produit d'un effort de partenariat connu sous le nom Joint Video Team (JVT). La norme UIT-T H.264 et la norme ISO/CEI MPEG-4 Part 10 (ISO/CEI 14496-10) sont techniquement identiques, et la technologie employée est aussi connue sous le nom AVC, pour Advanced Video Coding. La première version de la norme a été approuvée en mai 2003 et la plus récente date d'avril 20121.
+H.265
+H.320
+H.323
+H.xxx
+Habilitation de sécurité 
+Hachage · 196
+Hack · 195
+Hack-back
+Hacker · 195, 283
+Hacking éthique · 132, 169
+HADOPI · 43, 196
+Half-Duplex · 196
+
+HaLow
+Hameçonnage · 179, 197
+Hameçonnage ciblé · 197
+Handover · 198
+Handshake
+Hard disk · 116
+hard QoS · 299
+Hardware · 241
+Harponnage · 198
+Hash · 198, 325, 399
+Hash code · 196
+Hash function · 182
+Hashtag · 198
+Haut Débit · 198
+Hayes
+HD · 198, 199
+HDDI
+HDLC · 199, 272, 321, 322, 355
+HDMI
+HDS (Hébergeur de Données de Santé)
+heartbeat · 47, 199
+Heuristics · 199
+Heuristique · 199
+Héxadécimal
+HIDS · 208, 391
+High Level Data Link Control · 199
+High Speed Download Packet Access · 202
+High Speed Uplink Packet Access · 202
+hit · 13
+HLR · 193, 200, 265, 391
+HMI
+Hoax · 200
+Home eNodeB · 177
+Home Location Register · 200, 391
+Home NodeB · 177
+Home page · 277
+Home Subscriber Server · 211
+Homme au milieu · 239
+Homologation de sécurité · 200
+Honey Pot · 200
+Honey words · 201
+Hop · 50, 320
+Hopping Sequence Number · 202, 391
+Horodatage
+Hors ligne · 268
+Host · 201, 391
+Host based IDS · 208
+host id · 18
+Hosts · 201
+Hot Spot · 201
+Hôte · 201
+HSDPA · 202
+HSN · 202, 391
+HSS · 211
+HSUPA · 177, 202
+HTML · 203
+HTTP · 203, 272, 391
+HTTPS · 203, 288, 326
+Hub · 81
+Huffman
+HUMINT
+Hyper Text Transmission Protocol · 203
+Hypertext · 203, 391
+HyperText Markup Language · 203
+Hypertext Preprocessor · 281
+Hypertexte · 203
+Hypertrame · 203
+------------------------------------------------------------------------
+I
+---------------------------------------------------------------------------
+I.T. Management · 213
+IA
+IAB · 205
+IAM
+IANA · 205, 206
+IATO
+iBGP · 49
+ICA (Citrix)
+ICANN · 17, 18, 205, 206, 207
+ICMP · 207
+ICP · 214, 283
+I-CSCF · 211
+ICT
+IDE
+Identificateur Uniforme de Ressources · 365
+Identification · 106, 207, 212, 251, 282, 390, 395, 397
+Identifieur de voie logique · 116
+Identité des objets · 207
+Identity of things · 207
+IDMEF
+IdO
+IDoT · 207
+IDP · 208, 223, 392
+IDS · 208, 392
+IEC · 65, 208
+IEEE · 54, 131, 169, 180, 189, 208, 209, 337
+IEM
+IEMN
+IETF · 113, 205, 209, 312, 337
+IGC · 214
+IGP · 41, 209, 293, 392
+IHM · 209
+IIS · 341
+IKE
+IMAP
+IMEI · 127, 165, 194, 209, 392
+IMINT
+Impact
+Implant
+Implement · 209
+Implémenter · 209
+Imprimante
+Imputation · 210
+IMS · 210
+IMSI · 64, 200, 211, 242, 245, 251, 392
+IMSI catcher
+IMT 2000 · 212
+In depth defense · 108
+Incident · 212, 395
+Incremental Zone Transfer · 228, 393
+Indicator Of Compromise · 240
+Industrial Information System · 341
+Inférence (attaque par)
+Influence Activity · 15
+Infobésité · 213
+Infogérance · 213, 226
+infonuagique · 75, 214
+Information Activity · 16
+Information Assurance · 264
+Information classifiée · 213
+Information overload · 213
+Information system · 341
+Information Technology Agreement · 226, 393
+Information Technology Infrastructure Library · 227, 393
+Informatique dans les nuages · 214
+Informatique décisionnelle · 59
+Informatique en nuages · 75
+Infrastructure · 214
+Infrastructure à clés publique · 283
+Infrastructure de clés publique · 214
+Infrastructure de gestion de clés · 214
+infrastructure network · 311
+Ingénierie de sécurité
+Ingénierie sociale · 214, 333
+Initialization vector
+Injection de code indirecte · 90
+Injection SQL · 215
+Inmarsat · 215
+Installeur
+Institut des ingénieurs électriciens et électroniciens · 208
+Institute of Electrical and Electronics Engineers · 208, 337
+Integrated Service Digital Network · 224
+Integrated Services Digital Network · 314
+Intégrité · 215
+Integrity · 215
+Intellectual property · 294
+Intelligence artificielle (le contraire de la bêtise naturelle - woody allen)
+Intelsat · 216
+Inter Switch Link · 224, 392
+Interception
+Interconnected Networks · 218
+Interconnection · 216
+Interconnexion · 216
+Interface · 13, 209, 216, 291, 387
+Interface de programmation · 28
+Interface homme machine · 209
+Interface réseau à réseau · 262
+Interférence · 217
+Intergiciel · 244
+interior BGP · 49
+Interior Gateway Protocol · 209
+Intermediate Sytem to Intermediate System · 224, 392
+International Electrotechnical Commission · 65, 208
+INternational MARitime SATellite Organisation · 215
+International Mobile station Equipment Identity · 209
+International Mobile Subscriber Identity · 211, 392
+International Mobile Telecommunications 2000 · 212
+International Standard Organisation · 21, 225, 392
+INTernational TELecommunication SATelitte consortium · 216
+International Telecommunication Union · 228, 393
+Internet · 13, 17, 18, 19, 25, 27, 29, 32, 33, 41, 43, 45,49, 54, 61, 76, 84, 85, 88, 93, 95, 96, 99, 103, 104, 113, 117, 119, 121, 126,128, 130, 135, 164, 166, 167, 172, 175, 177, 188, 196, 201, 205, 206, 207, 209,218, 219, 220, 221, 222, 223, 224, 225, 226, 234, 236, 272, 281, 312, 366, 392,398
+Internet Activities Board · 205
+Internet Architecture Board · 205
+Internet Assigned Numbers Authority · 205, 206
+Internet Control and error Message Protocol · 207
+Internet Corporation for Assigned Names and Numbers · 17,206
+Internet Datagram Protocol · 208, 223, 392
+Internet des objets · 219
+Internet Engineering Task Force · 205, 209, 337
+Internet eXchange Point · 228
+Internet Of Things · 219, 392
+Internet Packet eXchange · 223
+Internet Protocol · 17, 218, 219, 310, 392
+Internet Protocol v4 · 221
+Internet Protocol v6 · 221
+Internet Protocole Security · 222, 392
+Internet Protocol-Private Branch Exchange · 222
+Internet Relay Chat · 223
+Internet Research Task Force · 205, 223, 392
+Internet Service Provider · 175
+Internet SOCiety · 225, 392
+Interrogating CSCF · 211
+Intranet · 219, 220
+Intrusion · 208, 220, 222, 391, 392, 395
+Intrusion Detection System · 208, 391, 395
+Intrusion Prevention System · 222, 392
+Invitation à émettre · 220
+Invitation à recevoir · 220
+IOC · 240
+IOCE
+IODEF
+iOS
+IOT · 219, 392
+IP address · 17
+IP Multimédia Subsystem · 210
+IP V4 · 221
+IP V6 · 221
+IPBX · 222
+IPS · 222, 392
+IPSEC · 67, 222, 223, 392
+IPX · 127, 164, 223, 290, 291
+IRC · 27, 198, 223, 288
+IRTF · 205, 223, 392
+IS-95 · 224
+ISA (International Society of Automation)
+ISA (bus)
+ISAKMP
+ISDN · 224, 251, 314, 392, 395
+IS-IS · 224, 392
+ISL · 224, 392
+ISO · 21, 47, 92, 132, 170, 199, 224, 225, 272, 337, 392
+ISOC · 225, 226, 392
+Isolation physique · 21
+ISP · 175, 176, 290
+IT
+IT Management · 226
+ITA · 226, 393
+ITIL · 227, 393
+Itinérance · 227
+ITSEC
+ITU · 212, 228, 393
+IV
+IXFR · 228, 393
+IXP · 189, 228
+------------------------------------------------------------------------
+J
+------------------------------------------------------------------------
+J2EE · 230
+J2ME · 230
+J2SE · 229
+Jabber · 229
+Jack The Ripper
+Jailbreak
+Jamming · 58
+Java · 29, 77, 217, 229
+Java card
+JavaBeans
+JavaScript · 230
+JavaScript Object Notation · 231, 393
+JDK
+Jeton · 230
+Jitter · 189, 230
+JNI
+Joint Picture Expert Group · 231, 393
+Jonction · 230
+JOOMLA · 76
+Journalisation · 230
+JPEG · 231, 393
+JSON · 231, 393
+Junction · 230
+Junk mail
+----------------------------------------------------
+K
+----------------------------------------------------
+Kali Linux
+Kasumi
+KDC · 233, 235
+Kerberos · 233, 235
+Kerckoffs
+Kernel · 233, 235
+Key Distribution Center · 233, 235
+Key Escrow
+Key Management Center
+Key Ring
+Key Safe
+Key Store
+Keylogger · 129, 167, 234, 236
+Keystroke Logger · 129, 167
+Kill Switch · 234, 236
+Killer App
+Killer Services · 234, 236
+KLoC
+-----------------------------------------------------------
+L
+------------------------------------------------------------
+Label · 251
+Label Distribution Protocol · 393
+Label Information Base · 393
+Label Switching Router · 251, 394
+Labellisation (ANSSI)
+LAC · 393
+lack of QoS · 299
+LACNIC · 307
+LAI · 393
+LAN · 117, 393
+Langage de modélisation unifié · 363
+Langage de programmation
+Langage orienté objet
+Langage standard de balisage généralisé · 325
+LAP · 393
+LAPD · 393
+Latency · 349
+LCP · 289, 393
+LDAP · 393
+LDP · 393
+leak · 186
+Lecteur
+Leurre de mots de passe · 201
+LGPL
+Liaison · 272
+LIB · 393
+Licence
+LID · 15, 81
+Lien descendant · 120
+LiFi
+Lightweight Directory Access Protocol · 393
+Ligne d’abonné numérique · 121
+Ligne d’abonnés numérique · 382
+Line of Sight
+Link · 116, 199, 389
+Link Control Protocol · 289, 393
+Linker
+Linux
+LIO · 15
+Liste blanche · 376
+Liste de contrôle d’accès · 14
+Liste noire
+Live CD
+LLC · 393
+LMI · 394
+Load balancing
+LoC
+Local loop · 56
+Local Management Interface · 394
+Location Area · 393
+Location Area Code · 393
+Location Area Identification · 393
+log in · 84
+log off
+log on · 84
+logout
+logic bomb · 56
+Logical Link Control · 393
+Logiciel · 28, 129, 167, 188, 303, 341
+logiciel embarqué · 180
+Logiciel malveillant · 239
+Logiciel médiateur · 244
+Logiciel partagé · 326
+Loi de Moore · 249
+Long Term Evolution · 394
+LoRa
+LoS
+LPM (loi de Programmation Militaire)
+LRA (Local Registration Authority)
+LSR · 251, 394
+LTE · 211, 394
+LTS
+LUA
+lutte informatique active · 80
+Lutte Informatique Défensive · 62, 81, 388
+Lutte informatique offensive · 80
+LWM2M
+LXC
+LZW
+-------------------------------------------------------------------------------------------------
+M
+--------------------------------------------------------------------------------------------------
+M2M
+MA · 237, 394
+Mac (Apple)
+MAC · 19, 127, 164, 237, 272, 394
+MAC (Message Authentication Code)
+Machine Learning · 238
+Machine virtuelle
+MAC Locking
+macro · 321
+macrocommande · 321
+MAEC · 238, 394
+Magasin de clés
+Mail bombing · 56
+Mail Harvesting · 238
+Maillage · 238
+Mainframe
+MAIO · 239, 394
+Maitrise d'Ouvrage · 246, 394
+Maitrise d’œuvre · 246, 394
+Maliciel
+Malware · 77, 238, 239, 338, 394
+Malware Attribute Enumeration and Characterization · 238, 394
+MAMBO · 76
+MAN · 239, 394
+Man in the middle · 239
+Man Machine Language · 246, 394
+Management Information Base · 243, 394
+Manager SNMP · 239
+MARION
+Marqueur (d’attaque) · 240, 250
+marqueur d’activité malveillante · 240
+marqueur de compromission · 240
+MASINT
+Masque de sous-réseau de longueur variable · 372
+Masque jetable · 274
+Master Boot Record · 241, 394
+Matériel · 241
+MAU · 352
+Maximum Transmission Unit · 252, 395
+MBR · 241, 394
+MCC · 211, 242, 394
+MD5 · 124, 162, 242, 394
+Meaconing
+Mean Time Between Failure · 251, 395
+Media Access Control · 237, 394
+Media Gateway · 243, 394
+Media Gateway Control Function · 243, 394
+Medium Access Control address · 19
+mégadonnées · 51
+MELISA
+Mél
+Memory Dump
+Memory stick · 75
+Menace
+Merkle (arbre de)
+mesh · 238, 239
+Mesh Network · 242
+Message Digest 5 · 124, 162, 242, 394
+Message Transfer Agent · 251, 395
+Message Transfer System · 252, 395
+Messagerie multimédia · 242
+Messagerie texte · 242
+Métadata · 243
+Métadonnée · 243
+Metasploit · 243, 279, 326
+Méthode formelle
+Metropolitan Area Network · 239, 394
+MGCF · 243, 394
+MGW · 243
+MIB · 243, 394
+MIC · 244, 394
+Micrologiciel · 180
+microprocesseurs multi-cœurs · 292
+Middleware · 244
+Millitary Cyberdefence · 97
+MILS
+MIME · 244, 394
+MIMO · 244, 394
+Mining
+Mint
+MIPS
+Miroir (site)
+Mise à jour · 245
+MISO · 245, 394
+MITM · 239
+MITRE · 62, 88, 94, 238, 245, 338
+MLS
+MMF · 178, 245, 394
+MML · 246, 394
+MMS · 242, 246, 394
+MMU
+MNC · 211, 245, 394
+MOA · 246, 394
+Mobile Allocation · 237, 394
+Mobile Allocation Index Offset · 239, 394
+Mobile Country Code · 211, 242, 394
+Mobile Network Code · 211, 245, 394
+Mobile service Switching Centre · 251
+Mobile station ISDN number · 251, 395
+Mobile Subscriber Identification Number · 212, 251, 395
+Mobile Virtual Network Operator · 252, 395
+Mode (chiffrement)
+Mode connecté · 246
+Mode de transfert asynchrone · 246
+Mode de transmission asynchrone · 247
+Mode de transmission synchrone · 247
+mode infrastructure · 46, 59, 377
+Mode non connecté · 247
+Modèle · 248, 272
+Modèle 
+Modem · 248
+Modérateur · 248
+Moderator · 248
+Modulateur · 248
+Modulation · 189, 244, 248, 391, 394
+Modulation à déplacement minimum gaussien · 189
+Modulation à spectre étalé · 249
+Modulation de fréquence · 181
+Modulation par Impulsions Codées · 244, 394
+Module complémentaire · 16
+MOE · 246, 394
+Moindre privilège · 249
+Moisson de courriels · 238
+MOOC
+Moore · 249
+Morris Worm
+Mosaic
+MOSPF · 249, 274, 394
+Mot de passe
+Mot dièse · 198
+Moteur de recherche · 250
+Mother board · 63
+mothercard · 63
+Motif · 250
+Monero (Monnaie virtuelle)
+MPEG
+MPLS · 177, 250, 251, 394
+MQTT
+MSC · 251
+MSDOS
+MSIN · 212, 251, 395
+MSISDN · 200, 251, 395
+MTA · 251, 395
+MTBF · 251, 395
+MTS · 252, 395
+MTTF
+MTU · 252, 395
+Multi Mode Fiber · 178
+Multicast · 249, 252, 274, 316, 394
+Multicast extension Open Shortest Path First · 249, 394
+Multimédia · 210
+Multimedia Messaging Service · 242
+Multimode Fiber · 245, 394
+Multiple Access · 13, 24, 176
+Multiple In / Single Out · 245, 394
+Multiple Input / Multiple Output · 244, 394
+Multiplex · 252
+Multiplexage · 252
+Multiplexage par code large bande · 376
+Multiplexage par répartition autonome de fréquence · 268
+Multiplexage temporel · 348
+Multiplexeur d’accès à la ligne d’abonné numérique · 121
+MultiProtocole Label Switching · 250, 394
+Multipurpose Internet Mail Extensions · 244, 394
+Multistation Access Unit · 352
+multi-trames · 204
+MUX/DEMUX
+MVNO · 252, 395
+Mystification · 253
+--------------------------------------------------------------------------------------
+N
+--------------------------------------------------------------------------------------
+NAC · 255, 395
+Name Service Switch · 255
+Naming · 263
+NAP · 255, 256, 257, 395
+NAS · 257, 395
+NAT · 258, 395
+NAT- PT · 258, 395
+National Institute of Standards and Technology · 122, 261,395
+National Security Agency · 264, 396
+Navigateur · 258
+NB-IoT
+NBMA · 259, 395
+NCP · 290
+Near Field Communication · 260, 395
+NEB · 266, 395
+net id · 18
+Netbios · 259
+Nétiquette · 259
+Netware · 223, 260
+Network · 16, 64, 80, 81, 85, 129, 166, 193, 211, 245, 247,252, 255, 256, 257, 258, 259, 261, 262, 264, 265, 274, 285, 290, 302, 306, 307,310, 389, 390, 392, 394, 395, 396, 397
+Network Access Control · 255, 395
+Network Access Protection · 255, 256, 395
+Network Access Server · 257, 395
+Network Address Translation · 258, 395
+Network Address Translation - Protocol Translator · 258, 395
+Network Attached Storage · 257, 395
+Network Basic Input Output System · 259
+Network Control Protocol · 290
+Network File System · 258, 261, 395
+Network Information Center · 261, 395
+Network Information Services · 261, 395
+Network Interface card · 261, 395
+Network Intrusion Detection System · 208
+Network management · 16
+Network Management System · 262, 395
+Network News Transfert Protocol · 262, 396
+Network Security Services · 265, 396
+Network Service Access Point · 264, 396
+Network Sub System · 265, 396
+Network Time Protocol · 265
+Network to Network Interface · 262, 396
+Network topology · 352
+Neul
+Newsgroup · 183
+NFC · 260, 395
+NFS · 261, 395
+NIC · 64, 261, 395
+NIDS · 208, 395î
+NIS · 261, 395
+NIST · 261, 395
+NMS · 262, 395
+NNI · 262, 396
+NNTP · 262, 366, 396
+NOC (Network Operations Center)
+Node · 188, 262
+Noeud · 262
+Nœud de Raccordement d’Abonné · 264, 396
+Nœud de raccordement d’abonnés · 262
+Nœud de Raccordement Optique · 264, 396
+Nœud de Transit International · 262, 396
+Nom de domaine · 118, 263
+Nombre premier
+Nommage · 263
+Non Broadcast Multiple Access · 259
+Non-repudiation · 263
+Non-répudiation · 263
+Normalisation · 263
+Norme · 224, 263
+NoSQL
+Notarisation
+Noyau · 233, 235
+NRA · 262, 264, 396
+NRO · 264, 396
+NSA · 27, 96, 264, 396
+NSAP · 264, 396
+NSS · 193, 217, 255, 265, 274, 396
+NTFS
+NTI · 262, 396
+NTIC
+NTP · 265
+Numbering Plan · 284
+Numérique · 265
+Numérisation · 266, 395
+Numérisation de l’espace de bataille · 266, 395
+--------------------------------------------------------------------------------------
+O
+---------------------------------------------------------------------------------------
+OAEP
+OAuth2
+Obfuscation · 267
+Object Management Group · 269, 396
+Objectif de sécurité · 267
+Objective C
+Objet connecté
+Ensemble d'objet dotés de fonctionnalités communicantes, ils peuvent ainsi être intérogés à distance, envoyer de façon autonome des données vers un cloud et/ou communiquer entre-eux de façon autonome.
+Objet-oriented programming · 293
+OBL · 267, 396
+OC (Objet Connecté)
+Ocaml
+Octet · 268
+OCSP
+ODF
+OEM
+OFDM · 268, 396
+OFDMA · 212, 376
+Off-line · 268
+Officier de sécurité (informatique)
+OID
+OIV · 268, 319, 396
+OLSR · 269, 396
+OMG · 269, 396
+OMI · 270
+On line · 128, 166
+One Time Pad · 74, 274
+One-way hash function · 18
+OOB (Out Of Band)
+Open data · 119
+Open GL
+Open source · 269
+Open Source Initiative · 273, 396
+Open source intelligence · 308
+Open System Interconnexion · 271, 396
+Opérande · 269
+Opérateur · 252, 267, 269, 270, 396
+Opérateur d’importance vitale · 268, 396
+Opérateur de Boucle Locale · 267, 396
+Operating System · 274, 341, 396
+Operating System and Service · 274, 396
+Opération d’information · 270
+Opération militaire d’influence · 270
+Operation Support Sub system · 274
+Opérations Informatiques · 80
+Operator · 270
+OPSEC
+Optical Fiber · 178
+Optimized Link State Routing Protocol · 269, 396
+Optional Nontransitive · 50
+Optional Transitive · 50
+ORB
+Orchestration
+Ordinateur quantique · 52, 271
+Ordiphone
+Organisation Internationale de normalisation · 225
+Orthogonal Frequency Division Multiple Access · 376
+Orthogonal Frequency Division Multiplexing · 268, 396
+OS/2
+OSE (Opérateur de Service Essentiel)
+OSI · 271, 272, 396
+OSINT · 308
+OSPF · 22, 224, 251, 272, 273, 274, 294, 396
+OSS · 274, 396
+OS X
+OT (Operational Technology)
+OTA (Over The Air)
+OTAK (OTA Keying)
+OTAN · 396
+OTAR (OTA Rekeying)
+OTP · 74, 274
+Out of band signaling · 328
+Outed · 135, 172
+Outil d’administration à distance · 304
+Outils de dissimulation d’activité · 315
+Outsourcing · 135, 172
+Overclocking
+OWASP
+-----------------------------------------------------------------------
+P
+-----------------------------------------------------------------------
+P2P · 277
+PaaS
+PABX · 277, 397
+Packet · 79, 120, 127, 165, 176, 191, 202, 278, 391
+Packet switching · 79
+PAdES
+Page d'accueil · 277
+Pair à pair · 277
+PAN · 278, 397
+PAP · 278, 397
+Paquet · 278
+Pare-feu · 179, 279
+Pare-feu à états 
+Parental Controls · 85
+Paris · 3
+Parité · 279
+Parser
+Partagiciel
+Partition
+Passerelle · 187, 279
+Passphrase
+Password
+Password Authentication Protocol · 278, 397
+Pastebin
+Patch
+patrimoine informationnel · 51
+Pattern · 62, 183, 240, 250, 388
+Payload · 279
+PBKDF2
+PBX · 277, 280, 397
+PC
+PCA · 284, 285
+PCI (bus)
+PCM · 244
+PCMCIA
+P-CSCF · 211, 280, 397
+PDA
+PDF
+PDN · 280, 397
+PDU
+Peer to peer · 277
+peering · 29, 280
+PEM
+Pentest · 350
+Périmètre d’audit · 280
+Périphérique
+Perl
+Permutation · 280
+Personal Area Network · 278, 397
+Personnal data · 119
+Personnal Identification Number · 282, 397
+PFS (Perfect Forward Secrecy)
+PGP · 280, 397
+Phablet
+Pharming · 112
+Phénomène viral · 281
+Phishing · 179, 197
+PHP · 281, 321, 373
+Phreaker · 281
+Physical layer · 86, 281
+Physique (couche) · 281
+PIC
+Piconet · 281
+Picoréseau · 281
+Pièce jointe · 282
+Piggyback · 282
+Pilote de périphérique · 282
+PIMSEC (cf. ANSSI)
+PIN · 64, 282, 397
+PIN Unblocking Key · 295, 397
+Ping · 282
+Ping de la mort · 283
+Ping of Death · 283
+Piracy · 283
+Piratage · 283
+Pirate informatique · 283
+Pixel
+PKC
+PKCS · 265, 284, 397
+PKI · 283, 397
+Plain Old Telephone Service · 318, 397
+Plan calcul
+Plan d'adressage
+Plan de continuité d’activité · 284
+Plan de contrôle
+Plan de numérotation · 284
+Plan de reprise d’activité · 284
+PLM
+PLMN · 285, 397
+PMR · 285, 397
+PNG
+PNNI · 285, 397
+PnP
+Podcast
+Point à point · 286
+Point d'accès · 286
+point d’ancrage · 25
+Point d’échange Internet · 228
+Point de code · 286
+Point de Présence · 288
+point de transfert sémaphore · 322
+Point of Presence · 287, 397
+Point to point · 286
+Point to Point Protocol · 278, 286, 289, 397
+Pointeur · 286
+points sémaphore · 322
+Point-to-Point Tunneling Protocol · 290, 291, 397
+Police de caractères
+Politique de sécurité de système d’information · 286
+Politique en matière de protection des renseignementspersonnels · 287
+Polling · 220, 287
+Polymorphic virus · 371
+Pont · 287
+Ponter · 286
+PoP · 287, 397
+POP3 · 88, 288, 397
+Pop-up · 177
+Port · 259, 288
+Portabilité · 289
+Portage
+Porte dérobée · 45, 289
+Porteuse · 289
+Ports scanning · 45
+PoS (Point of Sale)
+PostScript
+POSIX
+Post · 288, 295, 397
+Post Office Protocol 3 · 288, 397
+Post quantum cryptography
+Pot de miel · 200
+POTS · 318, 397
+Pourriel · 289, 333
+Power Line Communication · 89
+PPP · 124, 162, 278, 286, 289, 290, 291, 397
+PPTP · 290, 397
+PQC (Post Quantum Cryptography)
+PRA · 284
+PRNG
+Prédicat opaque
+Préprocesseur
+Prestataire d’audit · 90, 291
+Prestataire d'audit de la sécurité des systèmes d'information - PASSI
+Prestataire de services de certification électronique - PSCE
+Prestataire de services d'horodatage électronique - PSHE
+Prestataire de détection des incidents de sécurité - PDIS
+Prestation de réponse aux incidents de sécurité - PRIS
+Pretty Good Privacy · 280, 397
+Preuve numérique · 291
+Preuves d’audit · 291
+PRI · 291, 397
+Primary Rate Interface · 13, 291, 397
+Principe de sécurité · 292
+Privacy
+Privacy Policy · 287
+Private Automatic Branch Exchange · 277, 397
+Private Branch Exchange · 280, 397
+Private Network Network Interface · 285, 397
+Privilege Escalation · 128, 165
+Procédure · 292
+Processeur · 292
+Processor · 292
+Production participative · 91
+Produit de sécurité · 292
+Professional Mobile Radio · 285, 397
+Progiciel
+Programmation objet · 292
+Programmation orientée objet · 292
+PROM
+propriété industrielle · 294
+Propriété intellectuelle · 294
+propriété littéraire et artistique · 294
+Protection d’accès réseau · 256
+Protocole · 293
+Protocole d’authentification par mot de passe · 278
+Protocole de résolution d’adresse · 31
+Protocole de routage · 269, 273, 285, 293
+Protocole de transfert de fichiers · 185
+Protocole Internet Sécurisé · 222
+Protocole IP · 219
+Protocole Simple de Gestion de Réseau · 332
+Proxy · 211, 280, 294, 295, 397
+Proxy Call Session Control Fonction · 280, 397
+Proxy server · 323
+Proxy serveur · 294
+PSI
+PSP
+PSS (RSA)
+PSSI · 286, 287, 292
+PSTN · 295, 318, 397
+Public Data Network · 280, 397
+Public Key Cryptography Standard · 284, 397
+Public Key Infrastructure · 283, 397
+Public Land Mobile Network · 285, 397
+Public Switched Telephone Network · 295, 318, 397
+Publication · 295
+Puce · 295
+PUK · 295, 397
+Pulse Code Modulation · 244
+Python
+------------------------------------------------------------------
+Q
+------------------------------------------------------------------
+Q model
+QR Code
+QoS
+Qualification · 297
+Qualification de produits de sécurité · 298
+Qualité de service · 299
+quality of expérience · 299
+Quality of service · 299
+Quantification · 300
+Quantizing · 300
+Quantum computing
+Quantum cryptography
+Quantum processing · 271
+-----------------------------------------------------------------------------------
+R
+------------------------------------------------------------------------------------
+RA (Registration Authority)
+Rabbit · 301
+Rack · 301
+RAD
+Radio Frequency Identification · 313, 398
+Radio Link Control · 314, 398
+Radio-identification · 313
+RADIUS · 124, 162, 301
+Rainbow series
+Rainbow tables · 303
+RAM · 64, 303, 398
+Rançongiciel · 303
+Random number
+Random access · 13
+Random Access Memory · 303, 398
+Ransomware · 303
+Rapport signal / bruit · 304
+RARP · 304, 398
+RAT · 122, 123, 304, 398
+rate · 106, 382
+Rayleigh scattering · 115 (et pourquoi pas aussi Raman et Mie ?)
+RBAC
+RBL · 304, 398
+RDP -- Remote Desktop Protocol
+
+    Protocole propriétaire Microsoft, RDP permet la connexion entre un client et un serveur utilisant Microsoft Terminal Services (MTS). Le serveur est en écoute sur le port 3389. RDP peut être utilisé par des acteurs malveillants pour installer des malwares à distance sur une machine, ou tous simplement en prendre le contrôle à distance.
+
+Read Only Memory · 315, 398
+Real Time Streaming Protocol · 318, 398
+Realtime Blackhole List · 304, 398
+Real-time Transport Control Protocol · 318, 398
+Real-time Transport Protocol · 318, 398
+Réalité augmentée
+Réalité virtuelle
+Record · 31, 193
+Redondance · 304
+Redundancy · 279, 304
+Red Hat
+Red Team(ing)
+Red/black separation
+Référencement · 304
+Référentiel · 39, 40, 84, 85, 90, 131, 134, 168, 171, 182,207, 280, 291, 305, 306, 322, 329, 350
+Référentiel général de sécurité · 305
+Regional Internet Registry · 306, 398
+Register · 306
+registered ports · 288
+Registre · 306, 398
+Registre à décalage
+Registre Internet Régionaux · 306
+Règle de détection · 305
+Relai de trame · 184
+Relais de trame · 307
+Remediation · 307
+Remédiation · 307
+Remote Access Trojan · 123, 304
+Remote Administration Tool · 304
+Remote Authentication Dial-In User Service · 124, 162
+Remote Authentification Dial In Users Services · 301
+Remote Procedure Call · 261
+Renifleur · 307
+Reno · 345
+Renseignement d’Intérêt Cyber · 308
+Renseignement d’Origine Cyber · 308, 398
+Renseignement d’Origine ÉlectroMagnétique · 309
+Répartiteur
+Repeater · 309
+Répertoire · 309
+Répéteur · 309
+Repository · 284, 305
+Reprise (point de) · 309
+Répudiation · 309
+Request for comment · 312
+Réseau · 65, 66, 103, 224, 239, 242, 272, 280, 285, 295,310, 311
+Réseau à valeur ajoutée · 310
+Réseau corporel · 55
+Réseau cryptographique
+Réseau d’accès · 310
+Réseau d’infrastructure · 311
+Réseau de clés
+Réseau de distribution de contenus · 65
+Réseau de neurones
+Réseau de Pétri
+Réseau de zombies · 311
+Réseau étendu · 311, 375
+Réseau indépendant · 311
+Réseau local sans fil · 378
+Réseau local virtuel · 371
+Réseau maillé · 242
+Réseau métropolitain · 239
+Réseau Mobile Terrestre Public · 285
+Réseau Numérique à Intégration de Données · 224
+Réseau Numérique à Intégration de Services · 314, 398
+Réseau privé virtuel · 312, 372
+Réseau public de transmission de données · 280
+Réseau sans fil personnel · 378
+Réseau Téléphonique Commuté · 318, 398
+Réseaux ad hoc · 310
+Réseaux radio mobiles professionnels · 285
+Residual error-rate · 345
+Résilience · 312
+Résolution
+Resource Reservation Protocol · 317, 398
+Responsable de la Sécurité des Systèmes d’Information · 317,398
+REST
+Rétro-ingénierie · 312
+reverse · 312
+Reverse Address Resolution Protocol · 304
+Reverse engeniring · 312
+Révocation
+Revocation
+RFC · 18, 41, 43, 49, 50, 88, 113, 124, 162, 185, 192, 205,209, 221, 222, 224, 228, 231, 233, 235, 242, 244, 259, 260, 261, 262, 269, 273,274, 278, 284, 288, 289, 290, 312, 356, 398
+RFID · 219, 313, 398
+RGS · 39, 40, 84, 85, 90, 131, 168, 182, 280, 291, 298, 305
+RGPD (Règlement Général de Protection des Données)
+RIC · 308, 398
+Rijndael
+Ring
+RIP · 23, 273, 294, 313, 398
+RIPE-NCC · 306
+Riper · 313
+RIR · 41, 205, 306, 398
+RISC
+Risk · 314
+Risque · 314
+risque résiduel · 314
+Rivest, Shamir, Adelman · 317, 398
+RJ 11
+RJ 45 · 314
+RLC · 314, 398
+RMI
+RNG
+RNIS · 13, 193, 199, 224, 314, 398
+Roadmap
+Roaming · 227
+ROC · 308, 398
+ROEM · 264, 309
+ROM · 64, 180, 303, 315, 398
+root name server · 324
+Root server · 324
+Rootkit · 315
+Routage · 41, 192, 209, 316
+Routage Générique par encapsulation · 192
+route par défaut · 344
+Router · 251, 316
+routes dynamiques · 316, 344
+routes statiques · 316, 344
+Routeur · 316
+Routing · 14, 23, 127, 164, 192, 269, 316, 396
+Routing Information Protocol · 23, 313, 398
+Routing protocol · 293
+Routing table · 343
+RPC · 261
+RPMA
+RPV · 372
+RSA · 280, 284, 317, 398
+RS 232
+RSS (flux)
+RSSI · 317, 398
+RSVP · 251, 317, 398
+RTC · 78, 193, 244, 246, 281, 295, 318, 398
+RTCP · 318, 398
+RTF
+RTFM (en priorité :-))
+RTP · 210, 318, 398
+RTSP · 318, 398
+Rustine
+RVA · 310
+---------------------------------------------------------------------------
+S
+---------------------------------------------------------------------------
+S/N (ou SNR)
+S/MIME · 265, 319, 399
+SaaS
+Sabotage · 319
+SAML
+Sampling Frequency · 185
+Sandbox · 320
+SAP · 260, 399
+Saut · 320
+Saut de fréquence
+Sauvegarde · 320
+SCA (Side Channel Attack)
+SCADA · 320, 399
+Scam
+Scan · 321
+SC-FDMA · 376
+SCI
+SCP (Système Cyber-Physique)
+Scrambling · 128, 165
+Script · 321
+Scriptkiddies · 321
+Scrum
+Scrutation · 287
+S-CSCF · 211
+SD card
+SDK
+SDLC · 321, 399
+SDMX · 322, 399
+SDN
+SDNS
+SDR
+SDU · 322, 399
+SE Linux
+Search engine · 250
+SECEF
+SECMM
+Secteur
+secteur d’amorçage · 241
+Secure / Multipurpose Internet Mail Extensions · 319, 399
+Secure by design
+Secure Hash Algorithm · 325, 399
+Secure Hypertext Transfer Protocol · 326, 399
+Secure Shell · 288, 336, 399
+Secure Socket Layer · 336, 399, 400
+Sécurité d’un système d’information · 322
+Sécurité de bout en bout
+Sécurité par conception
+Sécurité par l'obscurité
+Security Information and Event Management · 327, 399
+Security Operations Center · 327, 333, 399
+Security Policy · 286
+Selecting · 220
+Sémaphore · 322
+Séparation (signaux) rouge / noir
+Sequenced Packet eXchange · 223, 399
+Sequenced Packet eXchnage · 260
+Séquestre de clé
+Serial access · 14
+server · 323
+Server Message Block · 258, 331, 399
+Serveur · 323
+Serveur de stockage réseau · 257
+Serveur mandataire · 294, 323
+Serveur privé virtuel · 373
+Serveur racine · 324
+
+    Service · 64, 130, 131, 168, 176, 224, 246, 255, 259, 264,288, 324, 336, 344, 391, 394, 396, 398, 399
+
+Service Advertising Protocol · 260, 399
+
+    Service Data Unit · 322, 399
+
+Service Oriented Architecture · 332, 399
+Service Set IDentifier · 336, 399
+Service-CSCF · 211
+services cachés · 353
+Session · 211, 259, 272, 280, 324, 330, 397, 399
+Session Initiation Protocol · 330, 399
+SGBD
+SGML · 325, 399
+SHA · 242, 325, 399
+Shannon · 185, 325
+Shannon (Théorème de) · 326
+Shareware · 326
+Shell (c, bourne, korn, bourne again ?)
+Shellcode · 326
+Short Message Service · 243, 331, 399
+Shortest Path First · 22, 273, 274, 396
+SHTTP · 326, 399
+Shunning · 327
+SI · 109, 341
+Side channel attack · 36
+SIEM · 327, 399
+SIGINT · 308, 309
+Signal · 46, 327
+Signal analogique · 327
+Signal intelligence · 308, 309
+Signal numérique · 328
+Signaling · 328
+Signaling System 7 · 322, 336, 399
+Signalisation · 328
+Signalisation hors bande · 328
+Signature d'attaque · 328
+Signature de virus · 329
+Signature électronique · 329
+Signet · 330
+SII
+SIL
+SIM · 64, 330, 399
+Simple Mail Transfer Protocol · 88, 331, 399
+Simple Network Management Protocol · 332, 399
+Simple Object Access Protocol · 333, 399
+Single Carrier – Frequency Division Multiple Access · 376
+Single Mode Fiber · 179, 331, 399
+Single Point of Failure
+Single Sign-On · 337, 400
+Sinkholing · 330
+SIP · 210, 211, 330, 399
+skimmer (ATM)
+SLA
+Slacktivisme// intégré 4
+Slackware
+Small Data //
+Smart card
+Smart City
+Smartphone
+SMB · 258, 272, 331, 399
+SMF · 179, 331, 399
+smishing · 197
+SMS · 197, 243, 331, 399
+SMTP · 88, 244, 288, 331, 399
+SMURF (attaque) · 331
+Snapshot · 332
+Sniffer · 307
+SNMP · 239, 240, 243, 272, 288, 332, 394, 399
+SNORT · 332
+SOA · 332, 399
+SOAP · 333, 399
+SoC
+SOC · 327, 333, 399
+Social engineering · 214, 333
+Société de Service et d’Ingénierie Informatique · 336, 399
+Society for Worlwide Interbank Financial Telecommunications· 317
+Socket · 84, 336, 399, 400
+socle d’application · 184
+soft QoS · 299
+Sonde de détection d’attaque · 333
+Sous système d’exploitation et de maintenance · 274
+Sous-système des stations de base · 58
+Spam · 289, 333
+Spanning Tree · 334
+SPC (Signaux Parasites Compromettants)
+Spear Phishing · 198
+Spearphishing · 197
+Spectre électromagnétique · 334
+SPF · 273
+SPIP · 76
+SPLUNK (SIEM, corrélateur de log)
+Splash Screen
+Spoofing · 253
+Spread Spectrum · 335
+Spread Spectrum modulation · 249
+SPX · 223, 260, 272, 399
+SQL · 215, 302, 335, 399
+SS7 · 262, 322, 336, 399
+SSD (Solid State Device)
+SSH · 272, 288, 336, 399
+SSID · 336, 399
+SSII · 130, 168, 213, 336, 399
+SSL · 185, 265, 336, 399, 400
+SSL Handshake protocol · 336
+SSL Record protocol · 336
+SSO · 337, 400
+Stack
+STAD · 337, 400
+Standard Generalized Markup Language · 325, 399
+Standards · 337
+Standards de cryptographie à clé publique · 284
+State of the art · 131, 168
+Station de base · 337
+Statistical Data and MetaData eXchange · 322, 399
+Stéganographie · 337
+Steganography · 337
+STIX · 63, 238, 338, 400
+Store and Forward · 338
+Streaming · 318, 339, 398
+Structured Query Lanquage · 335, 399
+Structured Threat Information eXpression · 338, 400
+Stuxnet · 180, 181, 320, 339, 340
+Subscriber Identity Mobile · 64, 330, 399
+Subversion
+Suiveur · 182, 340
+Suivre · 340
+Supercalculateur
+supertrames · 204
+Supervisory Control And Data Acquisition · 320, 399
+surcharge (opérateur)
+surcharge (réséau)
+surveillance
+SUSE
+SVGA
+SVN
+Swap · 280
+SWIFT · 311, 317
+Switch
+Switched virtual circuit · 73
+Synchrone · 340
+Synchronous Data Link Control · 321, 399
+Syndication
+SYN Flood
+SYN Hac
+Syslog
+Système autonome · 41
+Système d'exploitation · 341
+Système d’arrêt d’urgence · 234, 236
+Système d’information · 341
+Système d’information industriel · 320, 341
+Système d’information sensible · 342
+Système de Détection d'Intrusion · 208
+Système de géolocalisation mondial · 191
+Système de gestion de contenu · 76
+Système de gestion de réseau · 262
+Système de gestion des clés XML · 382
+Système de noms de domaine · 117
+Système de prévention d’intrusion · 222
+Système de télécommunication mobile universel · 363
+Système de Traitement Automatisé des Données · 337
+Système global de communication mobile · 193
+----------------------------------------------------------------------------------
+T
+----------------------------------------------------------------------------------
+TA · 343, 400
+Table arc-en-ciel · 303
+Table de routage · 343
+Tablette
+Tag · 46, 344
+Tag Switching · 344
+Tahoe · 345
+target · 72, 393
+Tarpit · 344
+Taux d'erreurs · 344
+Taux d'erreurs Résiduelles · 345
+Taux d’échantillonnage fixe · 65
+TAXII · 338
+TCB (Trusted Computing Base)
+TCP · 22, 26, 33, 49, 88, 105, 185, 203, 205, 218, 272, 345,400
+TCP/IP (modèle) · 347
+TCSEC
+TD/CDMA · 347, 400
+TDM · 348, 400
+TDMA · 14, 24, 348, 400
+Technique d’évasion avancées · 20
+Téléchargement · 348
+Télécharger · 348
+TELecommunication NETwork · 348
+Telephone over IP · 348
+Téléphonie sur IP · 348
+TELNET · 348
+Témoin de connexion · 86, 349
+TEMPEST (nom de code)
+Template · 248
+Temporal Key Integrity Protocol · 351, 378, 400
+Temps de latence · 349
+Temps de réponse · 349
+Temps Moyen Entre Panne · 251
+Terminal · 133, 170, 349
+Terminal X
+Terrestrial Trunked Radio Access · 351
+Test boîte blanche, grise, noire
+Test d’intrusion · 350
+Test de primalité
+TETRA · 285, 351
+Tetrapol
+Texto
+Textotter
+TGS · 233, 235
+The Onion Router · 353, 400
+Thread Protocol
+TIC
+Ticket Granting Service · 233, 235
+tiers de confiance · 81, 82, 351
+TIFF
+Time Advance · 343, 400
+Time Division / CDMA · 347, 400
+Time Division Multiple Access · 14, 24, 348, 400
+Time Division Multiplexing · 348, 400
+Time Out · 351
+Time slot · 89
+Time-To-Live · 358, 400
+Time stamping
+TKIP · 351, 378, 400
+TLD · 117, 261, 263, 352, 356, 400
+TLP (Traffic Light Protocol )
+TLS · 124, 162, 203, 265, 336, 400
+TMEP · 251
+toile · 33, 68, 376, 378
+TOIP · 348
+Token · 230
+Token Ring · 352
+Tolérance aux pannes · 352
+Toolkit
+Top Level Domain · 117, 261, 352, 356, 400
+Topologie de réseau · 352
+Topologie en · 353
+Topologie en anneau · 353
+Topologie en bus · 352
+Topologie en étoile · 353
+Topologie maillée · 353
+TOR · 26, 27, 353, 400
+Torsploit
+TPM
+Trace · 354
+Traduction d'adresse réseau · 258
+Trafic · 65, 354
+Traitement automatique de données · 354
+Traitement de données à caractère personnel · 354
+Trame · 354
+Transceiver · 337, 355, 388
+Transcodage · 355
+Transcoding Rate and Adaptation Unit · 357, 400
+Transfert de paquets · 355
+Transfert de zone · 42, 43, 228, 356
+Transfert de zone DNS · 42, 43
+Transfert inter-cellulaire · 198
+Transhumanism · 356
+Transhumanisme · 356
+Transmission Control Protocol · 218, 345, 400
+TRANSPAC · 357
+Transponder · 309
+Transport (couche) · 357
+Transport layer · 357
+Transport Layer Security · 336, 400
+transrating · 355
+Trapdoor
+TRAU · 357, 400
+Triangulation
+Triple DES · 357
+Trojan · 69, 358
+Troll · 358
+Trust · 81
+Trusted Automated of Indicator information · 338
+trusted third party · 81, 351
+TTL · 351, 358, 400
+TTP · 81, 351
+Tunnel · 358
+Turing (Alan)
+Turing (machine de)
+TVWS
+Twain
+Twitter
+Twittos
+TYPO3 · 76
+Typosquatting · 358
+-------------------------------------------------------------------------------------------
+U
+-------------------------------------------------------------------------------------------
+UAC · 255, 361, 362, 400
+Ubuntu
+UCS · 362, 365
+UDP · 259, 272, 302, 313, 345, 357, 362, 400
+UEFI
+UHF
+UI (User Interface)
+UIT · 180, 212, 228, 363, 400
+UIT-T · 381
+UML · 269, 363
+UMTS · 133, 170, 194, 202, 211, 212, 245, 363, 400
+UMTS -TDD · 364, 400
+UNB (SigFox)
+UNI · 364, 400
+Unicast · 316, 364
+Unicode · 34, 364, 365, 366
+Unicode Transformation Format · 366
+Unified Access Control · 361, 400
+Unified Modeling Language · 269, 363
+Uniform Resource Identifier · 365, 401
+Uniform Resource Locator · 365, 401
+Uniform Ressource Locator · 19
+Uniform Ressource Name · 365, 401
+Union Internationale des Télécommunications · 180, 228, 363,400
+Unité centrale
+Unité de données service · 322
+Unité de transcodage et d’adaptation du débit · 357
+Universal Character Set · 362, 365
+Universal Mobile Telecommunication System · 363, 400
+Universal Mobile Telecommunication System Time DivisionDuplex · 364, 400
+Universal Serial Bus · 365, 401
+Unix
+UNIX user network · 366, 401
+Upgrade · 245
+Uplink
+Upload · 348
+Urbanisation du SI
+URI · 365, 401
+URL · 19, 191, 305, 365, 401
+URN · 365, 401
+USB · 75, 96, 180, 289, 320, 365, 366, 401
+USENET · 366, 401
+User Datagram Protocol · 302, 347, 362, 400
+User Generated Content · 84
+User to Network Interface · 364, 400
+USRP
+Usurpation d’adresse · 366
+Usurpation de cache ARP · 32
+UTF · 366
+UTM
+UTP (Unshield Twisted Pair)
+UWB
+UX (User eXperience)
+--------------------------------------------------------------------------
+V
+---------------------------------------------------------------------------
+Valance · 369
+Valence · 369
+Value Added Network · 310
+Vampire (prise)
+VAN · 310
+VAR (Value Added Reseller)
+variable bit rate · 65, 369, 401
+Variable-Length Subnet Mask · 273, 372, 401
+VBR · 65, 369, 401
+VCSP
+VDS · 373
+Vecteur d'Initialisation
+Ver informatique · 369
+Vertical Redundancy Check · 279
+VGA
+Vi (éditeur)
+VI (vecteur d'initialisation)
+Very Small Aperture Terminal · 373, 401
+VHF
+Vidéo à la demande · 372
+Video On Demand · 372, 401
+Vine · 370
+Virtual · 252, 312, 370, 371, 395, 401
+Virtual circuit · 73
+Virtual Dedicated Server · 373
+Virtual Local Area Network · 371, 401
+Virtual Machine
+Virtual Private Network · 312, 372, 401
+Virtual Private Server · 373, 401
+Virtuel · 252, 370
+Virus · 370
+Virus polymorphe · 371
+Virus signature · 329
+Visitor Location Register · 194, 371, 401
+Visualisation de données
+VLAN · 225, 371, 401
+VLR · 193, 200, 265, 371, 401
+VLSM · 273, 372, 401
+VM
+VMS
+VNC
+VNIC
+Vocoder
+VOD · 372, 401
+Voie · 372
+VoIP · 244, 372
+Voix sur IP · 372
+Volume
+VPN · 223, 250, 372, 401
+VPS · 373, 401
+VR (Virual Reality)
+VRC · 279
+VSAT · 373, 401
+VT 50, 100, etc.
+Vulnérabilité · 374
+Vulnerability · 93, 374
+-------------------------------------------------------------------------------------------------------------
+W
+-------------------------------------------------------------------------------------------------------------
+W3C · 203, 375, 401
+WAN · 117, 184, 311, 375, 401
+WAP · 375, 401
+watchdog · 69
+water holing · 37
+Watering hole · 37
+Watermarking
+WAV
+Wave interférence · 217
+WCDMA · 202, 376, 401
+Web · 67, 76, 107, 108, 112, 215, 230, 258, 277, 298, 323,333, 375, 376, 378, 401
+webmail · 88
+Well known discretionary · 50
+well known mandatory · 50
+well known ports · 288
+well known services · 324
+WEP · 376, 401
+White List · 376
+-------------
+White box : A creuser/// voir Cumulus Linux.
+
+whitehat · 68
+Whois
+Wide Area Network · 311, 375, 401
+Wideband Code Division Multiple Access · 202, 376, 401
+Wi-Fi · 131, 168, 199, 286, 376, 378, 401
+Wi-Fi Protected Access · 378, 401
+Wiki · 377
+wikileaks · 186
+Wikipedia
+WiMAX · 377
+Windows
+Wired Equivalent Privacy · 376, 401
+Wireless Application Protocol · 375, 401
+Wireless Fidelity · 376
+Wireless Local Area Network · 378, 401
+Wireless Markup Language · 376
+Wireless Personal Network · 278
+Wireless Personnal Area Network · 378, 401
+Wireshark
+Wiring · 61
+WL · 376
+WLAN · 378, 401
+WML · 375
+workflow · 76
+World Wide Web · 54, 203, 378, 401
+World Wide Web Consortium · 375, 401
+Worldwide Interoperability for Microwave Access · 377
+Worm · 370
+WPA · 378, 401
+WPA2 · 378
+WPAN · 278, 378, 401
+Wrapping
+WWW · 378, 401
+------------------------------------------------------------------------------------
+X
+------------------------------------------------------------------------------------
+X · 48, 189, 263, 264, 265, 317, 334, 336, 357, 381, 382
+x Digital Subscriber Line · 382
+X Window
+X.25 · 263, 357, 381, 382
+X.500 · 381
+X.501 · 381
+X.509 · 381
+X.518 · 381
+X.519 · 381
+X.525 · 381
+X11
+x64
+x86
+XAdES
+Xcode
+xDSL · 121, 382
+Xeon
+Xerox Network Specification · 208
+XIF
+XKISS · 382
+XKMS · 382, 402
+XKRSS · 382
+XLL · 382, 402
+XML · 203, 229, 231, 382, 402
+XML Key Information Service Specification · 382
+XML key management system · 382, 402
+XML Key Registration Service Specification · 382
+XMLDSIG
+XMPP · 229
+XMR (Symbole boursier du Monero)
+XNS · 208
+XOR · 383
+XSS · 90
+XTP
+-----------------------------------------------------------------------
+Y
+-----------------------------------------------------------------------
+Y2K
+YA1CC
+Yarrow
+-----------------------------------------------------------------------
+Z
+-----------------------------------------------------------------------
+Z (langage)
+
+Zero-day · 385
+Zero knowledge
+Zeroization
+ZFS
+ZigBee
+ZIP
+Zombie · 9, 385
+Zone blanche
+Zonage (TEMPEST)
+Zone d’amorce 
+Zone démilitarisée 
+Zone transfer
+ZRTP
+
+
+
+
+
+
+
