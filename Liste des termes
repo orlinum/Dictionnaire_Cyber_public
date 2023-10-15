@@ -3,14 +3,19 @@ Dictionnaire_Cyber_public
 A
 
 Accès · 13
-Acces Control List · 15, 377
+(Access- hit)
+Qualité qui permet de bénéficier d’un service particulier sous certaines conditions. Ainsi pour bénéficier d’une connexion Internet l’usager doit solliciter un fournisseur d’accès Internet (FAI*). En matière de télécommunication, il existe plusieurs type d’accès, de mécanisme d’accès ainsi que des techniques de contrôle d’accès*. L’accès désigne également le fait d’engager une consultation d’un document sur un serveur[1]. Ainsi, le nombre d’accès est une mesure courante de l’audience d’un site Internet ou de la fréquence de consultation d’un document. Dans cette approche, le terme en anglais le plus juste est hit.
+
+[1] Journal Officiel du 1er septembre 2000.
+
+Access Control List · 15, 377
 Accès de base · 13
 Accès direct · 14
 Accès multiple · 14, 26
 Accès Multiple par Répartition en Code · 26
 Accès Multiple par Répartition en Fréquence · 26
 Accès multiple par répartition temporelle · 26
-accès primaire · 13, 14
+Accès primaire · 13, 14
 Accès séquentiel · 14
 Access · 13
 Access Control · 20, 66, 87, 378
@@ -20,7 +25,7 @@ Access provider · 152
 Accord cadre sur les technologies de l’information · 198
 Acheminement · 15
 ACK · 15, 336
-Acknoledgement · 15
+Acknowledgement · 15
 ACL · 15
 Acquittement · 15
 ACSE · 66
@@ -68,9 +73,13 @@ Agence Nationale des Fréquences · 27
 Agent · 22, 236
 agent intelligent · 23
 agent logiciel · 23
+Agile (méthode) => à rédiger !
+Agrément de sécurité => à rédiger !
+AGL => à rédiger !
 AH · 194
 Air gap · 23
 air wall · 23
+Aléa => à rédiger !
 Algorithme · 23
 algorithme de Bellman-Ford · 25
 Algorithme de Dijkstra · 24
@@ -90,6 +99,7 @@ AMRT · 26
 Analog(e) signal · 316
 Analogic · 26
 Analogique · 26
+Analyse de trafic => à rédiger !
 Analyse intelligente des données · 108
 Anchor · 27
 Ancre · 27, 172
@@ -101,6 +111,7 @@ Anonymat · 27
 Anonymisation · 28
 Anonymity · 27
 Anonymous · 29
+ANSI => à rédiger !
 ANSSI · 30
 Antivirus · 30
 API · 30
@@ -112,24 +123,31 @@ Application Common Service Elements · 66
 Application Programming Interface · 30
 Apprentissage automatique · 222
 APT · 31, 377
+AQSSI (Autorité Qualifiée de Sécurité des Systèmes d'Information) => à rédiger !
 Arbre recouvrant · 322
 Architecture Orientée Service · 321
 archivage · 33
 Archive · 33
+Argon2 => à rédiger !
 ARIN · 293
+ARM => à rédiger !
 Arobase · 36
 ARP · 34, 223, 237
 ARP poisoning · 34
 ARP spoofing · 34
 ARPANET · 34, 35, 36, 107, 108
+Artificial Intelligence (AI) => à rédiger ! 
 Article Contrôlés de la Sécurité des Systèmes d’Information · 36
 AS · 44, 51, 52, 134, 175, 205, 293
 ASCII · 37, 258, 377
+ASN1 => à rédiger !
+Assemblage => à rédiger !
 Assembler · 37
 Assembleur · 37
 Association Française de NORmalisation · 22, 377
 Association Française pour le Nommage Internet en Coopération · 22, 377
-Asymetric · 38
+Astroturfing => à rédiger !
+Asymmetric · 38
 Asymétrie · 38
 Asymmetrical Digital Subscriber Line · 21, 377
 Asynchronous Transfer Mode · 231
@@ -174,29 +192,40 @@ Backbone Internet · 47
 Backdoor · 47
 Backward Error Correction · 301
 Backward explicit congestion notification · 51
+Bad USB
 Baie · 287
 Balayage de ports · 48, 309
 Balisage · 48
 Balise · 48
 Balise (voie) · 48
 BAN · 57, 377
-bande C · 364
+Bande C · 364
+Bande E => à rédiger !
+Bande L => à rédiger !
 Bande de fréquence banalisée · 49
 bande Ka · 364
 bande Ku · 364
 Bande passante · 49
+Bande S => à rédiger
+Bande X => à rédiger
 bandwidth · 49
 Bandwidth · 209
 Banque de données · 50
 Barrière · 50
+Base 64
 Base de données · 50, 228
 Base Station Subsystem · 61
 Bash · 50
+Basic (langage)
 Basic Input Output System · 55
 Basic Rate Interface · 13
+BATX => à rédiger !
+Baud => à rédiger !
+BDD => à rédiger !
 beacon · 48
 Beacon Channel · 48
 Beaconing · 48
+BEAST => à rédiger !
 BEC · 301
 BECN · 51, 145
 best effort · 285
