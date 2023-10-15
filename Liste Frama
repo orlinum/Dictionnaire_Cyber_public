@@ -1,31 +1,3 @@
-
-
-Read me
-
-Bienvenue sur le PAD du Dictionnaire de la Cybersécurité et des Réseaux (NUVIS - 18 décembre 2015)!
-
-L'objet de ce PAD est de vous permettre de faire évoluer le contenu du Dictionnaire, un mot vous manque ? une définition vous semble incomplète ? vous souhaitez proposer des améliorations?
-ce PAD est le vôtre.
-
-Merci de respecter les contributions des autres utilisateurs et de conserver l'esprit de vulgarisation et d'ouverture qui a piloté à la rédaction de ce dictionnaire.
-
-Merci !
-
-
-
-Remarques génér2ales
-
-//placer ici vos remarques d'ordres général//
-De Christophe Réville :
-    Rien sur le facteur Humain : voulez vous une contribution ?, cr@an2v.org
-
-
-De Gil Bates
-Correction de typos (access, address, naming, accents en anglais, etc.) et proposition de nouvelles entrées
-//
-Ne pas hésiter à donner quelques précisions sur les entrées que vous proposez, surtout les acronymes ! merci :)
-//
-
 ------------------------------------------------------------------------))
 INDI
 1G
@@ -70,7 +42,7 @@ Acknowledgement · 14 X
 ACL · 14
 Acquittement · 14
 ACSE · 64
-ACSSI // intégré 1 X
+ACSSI // intégré
 Action d’exploitation informatique · 15, 81
 Action d’influence · 15
 Action d’information · 16
@@ -79,7 +51,7 @@ Action de lutte informatique offensive · 15
 Ad hoc network · 310
 Additif · 16
 Add-on · 16
-Address Resolution Protocol · 31// X
+Address Resolution Protocol · 31
 Address · 17
 Address spoofing · 366
 Administration de réseau · 16
