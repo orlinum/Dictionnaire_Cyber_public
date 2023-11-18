@@ -1,0 +1,79 @@
+Label · 251
+Label Distribution Protocol · 393
+Label Information Base · 393
+Label Switching Router · 251, 394
+Labellisation (ANSSI)
+LAC · 393
+lack of QoS · 299
+LACNIC · 307
+LAI · 393
+LAN · 117, 393
+Langage de modélisation unifié · 363
+Langage de programmation
+Langage orienté objet
+Langage standard de balisage généralisé · 325
+LAP · 393
+LAPD · 393
+Latency · 349
+LCP · 289, 393
+LDAP · 393
+LDP · 393
+leak · 186
+Lecteur
+Leurre de mots de passe · 201
+LGPL
+Liaison · 272
+LIB · 393
+Licence
+LID · 15, 81
+Lien descendant · 120
+LiFi
+Lightweight Directory Access Protocol · 393
+Ligne d’abonné numérique · 121
+Ligne d’abonnés numérique · 382
+Line of Sight
+Link · 116, 199, 389
+Link Control Protocol · 289, 393
+Linker
+Linux
+LIO · 15
+Liste blanche · 376
+Liste de contrôle d’accès · 14
+Liste noire
+Live CD
+LLC · 393
+LMI · 394
+Load balancing
+LoC
+Local loop · 56
+Local Management Interface · 394
+Location Area · 393
+Location Area Code · 393
+Location Area Identification · 393
+log in · 84
+log off
+log on · 84
+logout
+logic bomb · 56
+Logical Link Control · 393
+Logiciel · 28, 129, 167, 188, 303, 341
+logiciel embarqué · 180
+Logiciel malveillant · 239
+Logiciel médiateur · 244
+Logiciel partagé · 326
+Loi de Moore · 249
+Long Term Evolution · 394
+LoRa
+LoS
+LPM (loi de Programmation Militaire)
+LRA (Local Registration Authority)
+LSR · 251, 394
+LTE · 211, 394
+LTS
+LUA
+lutte informatique active · 80
+Lutte Informatique Défensive · 62, 81, 388
+Lutte informatique offensive · 80
+LWM2M
+LXC
+LZW
