@@ -1,0 +1,228 @@
+S/N (ou SNR)
+S/MIME · 265, 319, 399
+SaaS
+Sabotage · 319
+SAML
+Sampling Frequency · 185
+Sandbox · 320
+SAP · 260, 399
+Saut · 320
+Saut de fréquence
+Sauvegarde · 320
+SCA (Side Channel Attack)
+SCADA · 320, 399
+Scam
+Scan · 321
+SC-FDMA · 376
+SCI
+SCP (Système Cyber-Physique)
+Scrambling · 128, 165
+Script · 321
+Scriptkiddies · 321
+Scrum
+Scrutation · 287
+S-CSCF · 211
+SD card
+SDK
+SDLC · 321, 399
+SDMX · 322, 399
+SDN
+SDNS
+SDR
+SDU · 322, 399
+SE Linux
+Search engine · 250
+SECEF
+SECMM
+Secteur
+secteur d’amorçage · 241
+Secure / Multipurpose Internet Mail Extensions · 319, 399
+Secure by design
+Secure Hash Algorithm · 325, 399
+Secure Hypertext Transfer Protocol · 326, 399
+Secure Shell · 288, 336, 399
+Secure Socket Layer · 336, 399, 400
+Sécurité d’un système d’information · 322
+Sécurité de bout en bout
+Sécurité par conception
+Sécurité par l'obscurité
+Security Information and Event Management · 327, 399
+Security Operations Center · 327, 333, 399
+Security Policy · 286
+Selecting · 220
+Sémaphore · 322
+Séparation (signaux) rouge / noir
+Sequenced Packet eXchange · 223, 399
+Sequenced Packet eXchnage · 260
+Séquestre de clé
+Serial access · 14
+server · 323
+Server Message Block · 258, 331, 399
+Serveur · 323
+Serveur de stockage réseau · 257
+Serveur mandataire · 294, 323
+Serveur privé virtuel · 373
+Serveur racine · 324
+
+    Service · 64, 130, 131, 168, 176, 224, 246, 255, 259, 264,288, 324, 336, 344, 391, 394, 396, 398, 399
+
+Service Advertising Protocol · 260, 399
+
+    Service Data Unit · 322, 399
+
+Service Oriented Architecture · 332, 399
+Service Set IDentifier · 336, 399
+Service-CSCF · 211
+services cachés · 353
+Session · 211, 259, 272, 280, 324, 330, 397, 399
+Session Initiation Protocol · 330, 399
+SGBD
+SGML · 325, 399
+SHA · 242, 325, 399
+Shannon · 185, 325
+Shannon (Théorème de) · 326
+Shareware · 326
+Shell (c, bourne, korn, bourne again ?)
+Shellcode · 326
+Short Message Service · 243, 331, 399
+Shortest Path First · 22, 273, 274, 396
+SHTTP · 326, 399
+Shunning · 327
+SI · 109, 341
+Side channel attack · 36
+SIEM · 327, 399
+SIGINT · 308, 309
+Signal · 46, 327
+Signal analogique · 327
+Signal intelligence · 308, 309
+Signal numérique · 328
+Signaling · 328
+Signaling System 7 · 322, 336, 399
+Signalisation · 328
+Signalisation hors bande · 328
+Signature d'attaque · 328
+Signature de virus · 329
+Signature électronique · 329
+Signet · 330
+SII
+SIL
+SIM · 64, 330, 399
+Simple Mail Transfer Protocol · 88, 331, 399
+Simple Network Management Protocol · 332, 399
+Simple Object Access Protocol · 333, 399
+Single Carrier – Frequency Division Multiple Access · 376
+Single Mode Fiber · 179, 331, 399
+Single Point of Failure
+Single Sign-On · 337, 400
+Sinkholing · 330
+SIP · 210, 211, 330, 399
+skimmer (ATM)
+SLA
+Slacktivisme// intégré 4
+Slackware
+Small Data //
+Smart card
+Smart City
+Smartphone
+SMB · 258, 272, 331, 399
+SMF · 179, 331, 399
+smishing · 197
+SMS · 197, 243, 331, 399
+SMTP · 88, 244, 288, 331, 399
+SMURF (attaque) · 331
+Snapshot · 332
+Sniffer · 307
+SNMP · 239, 240, 243, 272, 288, 332, 394, 399
+SNORT · 332
+SOA · 332, 399
+SOAP · 333, 399
+SoC
+SOC · 327, 333, 399
+Social engineering · 214, 333
+Société de Service et d’Ingénierie Informatique · 336, 399
+Society for Worlwide Interbank Financial Telecommunications· 317
+Socket · 84, 336, 399, 400
+socle d’application · 184
+soft QoS · 299
+Sonde de détection d’attaque · 333
+Sous système d’exploitation et de maintenance · 274
+Sous-système des stations de base · 58
+Spam · 289, 333
+Spanning Tree · 334
+SPC (Signaux Parasites Compromettants)
+Spear Phishing · 198
+Spearphishing · 197
+Spectre électromagnétique · 334
+SPF · 273
+SPIP · 76
+SPLUNK (SIEM, corrélateur de log)
+Splash Screen
+Spoofing · 253
+Spread Spectrum · 335
+Spread Spectrum modulation · 249
+SPX · 223, 260, 272, 399
+SQL · 215, 302, 335, 399
+SS7 · 262, 322, 336, 399
+SSD (Solid State Device)
+SSH · 272, 288, 336, 399
+SSID · 336, 399
+SSII · 130, 168, 213, 336, 399
+SSL · 185, 265, 336, 399, 400
+SSL Handshake protocol · 336
+SSL Record protocol · 336
+SSO · 337, 400
+Stack
+STAD · 337, 400
+Standard Generalized Markup Language · 325, 399
+Standards · 337
+Standards de cryptographie à clé publique · 284
+State of the art · 131, 168
+Station de base · 337
+Statistical Data and MetaData eXchange · 322, 399
+Stéganographie · 337
+Steganography · 337
+STIX · 63, 238, 338, 400
+Store and Forward · 338
+Streaming · 318, 339, 398
+Structured Query Lanquage · 335, 399
+Structured Threat Information eXpression · 338, 400
+Stuxnet · 180, 181, 320, 339, 340
+Subscriber Identity Mobile · 64, 330, 399
+Subversion
+Suiveur · 182, 340
+Suivre · 340
+Supercalculateur
+supertrames · 204
+Supervisory Control And Data Acquisition · 320, 399
+surcharge (opérateur)
+surcharge (réséau)
+surveillance
+SUSE
+SVGA
+SVN
+Swap · 280
+SWIFT · 311, 317
+Switch
+Switched virtual circuit · 73
+Synchrone · 340
+Synchronous Data Link Control · 321, 399
+Syndication
+SYN Flood
+SYN Hac
+Syslog
+Système autonome · 41
+Système d'exploitation · 341
+Système d’arrêt d’urgence · 234, 236
+Système d’information · 341
+Système d’information industriel · 320, 341
+Système d’information sensible · 342
+Système de Détection d'Intrusion · 208
+Système de géolocalisation mondial · 191
+Système de gestion de contenu · 76
+Système de gestion de réseau · 262
+Système de gestion des clés XML · 382
+Système de noms de domaine · 117
+Système de prévention d’intrusion · 222
+Système de télécommunication mobile universel · 363
+Système de Traitement Automatisé des Données · 337
+Système global de communication mobile · 193
