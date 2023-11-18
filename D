@@ -1,0 +1,156 @@
+Dark Fiber · 178
+Darknet · 103
+Darkweb
+DARPA · 104, 389
+Dash7
+Data · 104, 111, 116, 118, 132, 133, 169, 170, 199, 280,320, 322, 389, 397, 399
+Data bank · 47
+Data base · 48
+Data center · 104
+Data circuit terminating equipment · 184
+Data Communication Equipement · 132, 169, 170
+data curation · 93
+Data Encryption Standard · 111
+Data mining · 104
+Data scientist · 105
+Data Terminal Equipement · 133, 170
+Data terminal equipment · 184
+Data warehouse · 129, 167
+Datagram · 105, 302, 347, 362, 400
+Datagramme · 105
+Daughter board · 63
+Daughtercard · 63
+Davies, Donald · 33
+DBA
+DCE · 132, 169, 170, 184
+DDOS · 37, 120
+Deadlock
+Debian
+Débit · 106
+Débit variable · 369
+Débordement de pile
+Déception · 106
+Déchiffrement · 107
+Decipher · 107
+Décrypter · 107
+Decryption · 107
+DECT · 107
+Deep fake
+Deep Packet Inspection
+Deep Web
+Défaçage · 107
+Défacement · 107
+Defacing · 107
+Défaut · 108
+DEFCON · 108, 389
+Défense en profondeur · 108
+Defense in depth · 108
+Défiguration · 107
+Dématerialisation · 109
+Demilitarized zone · 116
+Démodulateur · 248
+Démultiplexage · 110
+Demultiplexing · 110
+Déni de service · 109
+Denial of service · 37, 109, 120
+Dépassement ou débordement de mémoire · 110
+DER
+Dérivation de clé
+DES · 111
+Désert numérique
+Désinformation · 111
+Détection · 111, 208
+Détection d’erreur · 112
+Detection rules · 305
+Détournement de DNS · 112
+Détournement de domaine · 112
+Détonation de virus
+DevOps
+DH (Diffie-Hellman)
+DHCP · 113
+Dirac
+Die · 295
+differenciated service · 299
+Diffie-Hellman · 113
+Diffusion de Rayleigh · 115
+Diffusion générale · 57
+Diffusion groupée · 252
+Digital · 20, 224, 265, 291, 387, 389, 392
+Digital Enhanced Cordless Telecommunication · 107, 389
+Digital proof · 291
+Digital Right Management · 121
+Digital Rights Management · 188
+Digital signal · 328
+Digital Signature Standard · 122
+Digital Subscriber Line · 121, 264, 382
+Digital Subscriber Line Multiplexer · 121
+Digitizing · 266
+Diode (réseau)
+Direct access · 13
+Directory · 309, 393
+Dispersion · 115
+Disponibilité · 115
+Disque dur · 116
+Disquette
+Distorsion · 300
+Distribué · 116
+Distributed · 37, 116
+Distributed denial of service · 37
+Directive NIS
+DivX
+DLCI · 116
+DLP
+DLL · 116, 389
+DMA
+DMCA
+DMZ · 116, 117
+DNS · 19, 117, 390
+DNS Pharming · 75, 112
+DNS Tunneling · 112
+DNSSEC · 117
+Domain name · 263
+Domain Name System · 117, 288, 390
+Domaine · 117
+Domaine de premier niveau · 352
+Domotique · 118
+Dongle
+donnée à caractère personnel · 119
+Données · 118
+Données de connexion
+Données de masse · 51
+Données massives · 118
+Données ouvertes · 119
+Données personnelles · 119
+Données sensibles · 119
+Dorsale · 45, 119
+Dorsale Internet · 45
+DOS · 37, 109, 120
+DOS (MSDOS)
+Downlink · 120, 202
+Download · 202, 348
+Doxing · 120
+DPA (Differential Power Analysis)
+DPD (Délégué à la Protection des Données)
+DPI · 120, 121, 390
+DPO (Data Protection Officer)
+DRAM
+Drapeau · 121
+Driver · 282
+DRM · 121, 188
+DROWN
+DSL · 121
+DSLAM · 121, 264
+DSA
+DSI
+DSS · 122
+DSSS
+DTE · 133, 170, 184
+DTLS
+Dual band · 50
+Dual mode · 52
+Dump · 122
+Duplex · 122, 186, 196
+Durée de vie · 106, 358
+DVB
+DVD(ROM)
+Dynamic Host Configuration Protocol · 113
