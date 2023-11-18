@@ -1,0 +1,56 @@
+Valance · 369
+Valence · 369
+Value Added Network · 310
+Vampire (prise)
+VAN · 310
+VAR (Value Added Reseller)
+variable bit rate · 65, 369, 401
+Variable-Length Subnet Mask · 273, 372, 401
+VBR · 65, 369, 401
+VCSP
+VDS · 373
+Vecteur d'Initialisation
+Ver informatique · 369
+Vertical Redundancy Check · 279
+VGA
+Vi (éditeur)
+VI (vecteur d'initialisation)
+Very Small Aperture Terminal · 373, 401
+VHF
+Vidéo à la demande · 372
+Video On Demand · 372, 401
+Vine · 370
+Virtual · 252, 312, 370, 371, 395, 401
+Virtual circuit · 73
+Virtual Dedicated Server · 373
+Virtual Local Area Network · 371, 401
+Virtual Machine
+Virtual Private Network · 312, 372, 401
+Virtual Private Server · 373, 401
+Virtuel · 252, 370
+Virus · 370
+Virus polymorphe · 371
+Virus signature · 329
+Visitor Location Register · 194, 371, 401
+Visualisation de données
+VLAN · 225, 371, 401
+VLR · 193, 200, 265, 371, 401
+VLSM · 273, 372, 401
+VM
+VMS
+VNC
+VNIC
+Vocoder
+VOD · 372, 401
+Voie · 372
+VoIP · 244, 372
+Voix sur IP · 372
+Volume
+VPN · 223, 250, 372, 401
+VPS · 373, 401
+VR (Virual Reality)
+VRC · 279
+VSAT · 373, 401
+VT 50, 100, etc.
+Vulnérabilité · 374
+Vulnerability · 93, 374
