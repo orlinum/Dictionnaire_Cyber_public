@@ -1,0 +1,82 @@
+H.264
+H.264, ou MPEG-4 AVC (Advanced Video Coding), ou MPEG-4 Part 10, est une norme de codage vidéo développée conjointement par l'UIT-T Q.6/SG16 Video Coding Experts Group (VCEG) ainsi que l'ISO/CEI Moving Picture Experts Group (MPEG) et est le produit d'un effort de partenariat connu sous le nom Joint Video Team (JVT). La norme UIT-T H.264 et la norme ISO/CEI MPEG-4 Part 10 (ISO/CEI 14496-10) sont techniquement identiques, et la technologie employée est aussi connue sous le nom AVC, pour Advanced Video Coding. La première version de la norme a été approuvée en mai 2003 et la plus récente date d'avril 20121.
+H.265
+H.320
+H.323
+H.xxx
+Habilitation de sécurité 
+Hachage · 196
+Hack · 195
+Hack-back
+Hacker · 195, 283
+Hacking éthique · 132, 169
+HADOPI · 43, 196
+Half-Duplex · 196
+
+HaLow
+Hameçonnage · 179, 197
+Hameçonnage ciblé · 197
+Handover · 198
+Handshake
+Hard disk · 116
+hard QoS · 299
+Hardware · 241
+Harponnage · 198
+Hash · 198, 325, 399
+Hash code · 196
+Hash function · 182
+Hashtag · 198
+Haut Débit · 198
+Hayes
+HD · 198, 199
+HDDI
+HDLC · 199, 272, 321, 322, 355
+HDMI
+HDS (Hébergeur de Données de Santé)
+heartbeat · 47, 199
+Heuristics · 199
+Heuristique · 199
+Héxadécimal
+HIDS · 208, 391
+High Level Data Link Control · 199
+High Speed Download Packet Access · 202
+High Speed Uplink Packet Access · 202
+hit · 13
+HLR · 193, 200, 265, 391
+HMI
+Hoax · 200
+Home eNodeB · 177
+Home Location Register · 200, 391
+Home NodeB · 177
+Home page · 277
+Home Subscriber Server · 211
+Homme au milieu · 239
+Homologation de sécurité · 200
+Honey Pot · 200
+Honey words · 201
+Hop · 50, 320
+Hopping Sequence Number · 202, 391
+Horodatage
+Hors ligne · 268
+Host · 201, 391
+Host based IDS · 208
+host id · 18
+Hosts · 201
+Hot Spot · 201
+Hôte · 201
+HSDPA · 202
+HSN · 202, 391
+HSS · 211
+HSUPA · 177, 202
+HTML · 203
+HTTP · 203, 272, 391
+HTTPS · 203, 288, 326
+Hub · 81
+Huffman
+HUMINT
+Hyper Text Transmission Protocol · 203
+Hypertext · 203, 391
+HyperText Markup Language · 203
+Hypertext Preprocessor · 281
+Hypertexte · 203
+Hypertrame · 203
