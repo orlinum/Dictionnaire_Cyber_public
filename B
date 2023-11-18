@@ -1,0 +1,125 @@
+Bac à sable · 320
+Back up · 320
+Backbone Internet · 45
+Backdoor · 45
+Backward Error Correction · 314
+Backward explicit congestion notification · 49
+Bad USBXX
+Baie · 301
+Balayage de ports · 45, 321
+Balisage · 46
+Balise · 46
+Balise (voie) · 46
+BAN · 55, 388
+bande C · 373XX
+bande EXX
+bande LXX
+Bande de fréquence banalisée · 47
+bande Ka · 373
+bande Ku · 373
+Bande passante · 47
+bande SXX
+bandwidth · 47
+bande XXX
+Banque de données · 47
+Barrière · 48
+Base 64XX
+Base de données · 48, 243
+Base Station Subsystem · 58
+Bash · 48
+Basic (langage)X
+Basic Input Output System · 53
+Basic Rate Interface · 13
+BATX (Baidu, Alibaba, Tencent, Xiaomi)XX
+BaudXX
+BDDXX
+beacon · 46
+Beacon Channel · 46
+Beaconing · 46
+BEASTXX
+BEC · 314
+BECN · 49, 177
+Beidou (constellation)xx
+Bell-LaPadulaXX
+BERXX
+best effort · 299
+BGP · 41, 49, 50, 209, 272, 293, 388
+BI · 59
+BibaXX
+Bibande · 50
+BibliothèqueXX
+Bibliothèque de l’infrastructure des technologies de l’information · 227
+Bibliothèque de liens dynamiques · 116
+Bi-cléxx
+Bidirectionnel non simultané · 196
+Bidirectionnel simultané · 186
+Bien informationnel · 51
+Big Brother · 51
+Big data · 51, 118
+BillettiqueXX
+billing · 210
+Bimode · 52
+Binaire · 52
+Binary · 52
+BiométrieXX
+BIOS · 53, 241, 315
+Bitxx
+Bitcoin · 53
+BitmapXX
+blackhat · 68
+Blade computerxx
+BLEXX
+BLOBXX
+BlocXX
+BlockchainXX
+blog · 27, 54, 77
+blogger · 54
+blogosphere · 54
+Blogosphère · 54
+Blogue · 54
+Blogueur · 54
+Blue Screen of Death
+Blue Team
+Bluetooth · 54
+Bob · 55
+Body Area Network · 55, 388
+Bogue · 55
+Bomb (Turing)
+Bombardement de courriels · 56
+Bombe logique · 56
+bombe programmée · 56
+Bookmark · 330
+Boot · 23, 241, 394
+Bootstrap
+Border Gateway Protocol · 49
+Borne WiFi publique · 201
+Bot
+Botnet · 56, 311
+Boucle locale · 56
+Bourne Again Shell · 48
+Box
+Brassage
+Breach · 175
+BREACH
+Bribe · 57
+Bridge · 287
+Broadcast · 57, 259, 316, 395
+Brouillage · 58
+Browser · 26, 258
+Brute force · 58
+brute-force attack · 58
+BSD
+BSS · 58, 59, 217, 274, 314
+BTS · 59, 66, 337
+Buffer overflow · 110
+Bug · 55
+
+Bulle de filtre
+Effet de filtrage de l'information par les algorithmes de recommandation qui peut mener à une perception biaisée de la réalité (David Chavalarias dans Toxic Data)
+
+Bureautique
+Bus · 59, 366
+Bus série universel · 366
+Business Intelligence · 59
+Buzz · 59
+Byte · 268
