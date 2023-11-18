@@ -1,0 +1,199 @@
+P2P · 277
+PaaS
+PABX · 277, 397
+Packet · 79, 120, 127, 165, 176, 191, 202, 278, 391
+Packet switching · 79
+PAdES
+Page d'accueil · 277
+Pair à pair · 277
+PAN · 278, 397
+PAP · 278, 397
+Paquet · 278
+Pare-feu · 179, 279
+Pare-feu à états 
+Parental Controls · 85
+Paris · 3
+Parité · 279
+Parser
+Partagiciel
+Partition
+Passerelle · 187, 279
+Passphrase
+Password
+Password Authentication Protocol · 278, 397
+Pastebin
+Patch
+patrimoine informationnel · 51
+Pattern · 62, 183, 240, 250, 388
+Payload · 279
+PBKDF2
+PBX · 277, 280, 397
+PC
+PCA · 284, 285
+PCI (bus)
+PCM · 244
+PCMCIA
+P-CSCF · 211, 280, 397
+PDA
+PDF
+PDN · 280, 397
+PDU
+Peer to peer · 277
+peering · 29, 280
+PEM
+Pentest · 350
+Périmètre d’audit · 280
+Périphérique
+Perl
+Permutation · 280
+Personal Area Network · 278, 397
+Personnal data · 119
+Personnal Identification Number · 282, 397
+PFS (Perfect Forward Secrecy)
+PGP · 280, 397
+Phablet
+Pharming · 112
+Phénomène viral · 281
+Phishing · 179, 197
+PHP · 281, 321, 373
+Phreaker · 281
+Physical layer · 86, 281
+Physique (couche) · 281
+PIC
+Piconet · 281
+Picoréseau · 281
+Pièce jointe · 282
+Piggyback · 282
+Pilote de périphérique · 282
+PIMSEC (cf. ANSSI)
+PIN · 64, 282, 397
+PIN Unblocking Key · 295, 397
+Ping · 282
+Ping de la mort · 283
+Ping of Death · 283
+Piracy · 283
+Piratage · 283
+Pirate informatique · 283
+Pixel
+PKC
+PKCS · 265, 284, 397
+PKI · 283, 397
+Plain Old Telephone Service · 318, 397
+Plan calcul
+Plan d'adressage
+Plan de continuité d’activité · 284
+Plan de contrôle
+Plan de numérotation · 284
+Plan de reprise d’activité · 284
+PLM
+PLMN · 285, 397
+PMR · 285, 397
+PNG
+PNNI · 285, 397
+PnP
+Podcast
+Point à point · 286
+Point d'accès · 286
+point d’ancrage · 25
+Point d’échange Internet · 228
+Point de code · 286
+Point de Présence · 288
+point de transfert sémaphore · 322
+Point of Presence · 287, 397
+Point to point · 286
+Point to Point Protocol · 278, 286, 289, 397
+Pointeur · 286
+points sémaphore · 322
+Point-to-Point Tunneling Protocol · 290, 291, 397
+Police de caractères
+Politique de sécurité de système d’information · 286
+Politique en matière de protection des renseignementspersonnels · 287
+Polling · 220, 287
+Polymorphic virus · 371
+Pont · 287
+Ponter · 286
+PoP · 287, 397
+POP3 · 88, 288, 397
+Pop-up · 177
+Port · 259, 288
+Portabilité · 289
+Portage
+Porte dérobée · 45, 289
+Porteuse · 289
+Ports scanning · 45
+PoS (Point of Sale)
+PostScript
+POSIX
+Post · 288, 295, 397
+Post Office Protocol 3 · 288, 397
+Post quantum cryptography
+Pot de miel · 200
+POTS · 318, 397
+Pourriel · 289, 333
+Power Line Communication · 89
+PPP · 124, 162, 278, 286, 289, 290, 291, 397
+PPTP · 290, 397
+PQC (Post Quantum Cryptography)
+PRA · 284
+PRNG
+Prédicat opaque
+Préprocesseur
+Prestataire d’audit · 90, 291
+Prestataire d'audit de la sécurité des systèmes d'information - PASSI
+Prestataire de services de certification électronique - PSCE
+Prestataire de services d'horodatage électronique - PSHE
+Prestataire de détection des incidents de sécurité - PDIS
+Prestation de réponse aux incidents de sécurité - PRIS
+Pretty Good Privacy · 280, 397
+Preuve numérique · 291
+Preuves d’audit · 291
+PRI · 291, 397
+Primary Rate Interface · 13, 291, 397
+Principe de sécurité · 292
+Privacy
+Privacy Policy · 287
+Private Automatic Branch Exchange · 277, 397
+Private Branch Exchange · 280, 397
+Private Network Network Interface · 285, 397
+Privilege Escalation · 128, 165
+Procédure · 292
+Processeur · 292
+Processor · 292
+Production participative · 91
+Produit de sécurité · 292
+Professional Mobile Radio · 285, 397
+Progiciel
+Programmation objet · 292
+Programmation orientée objet · 292
+PROM
+propriété industrielle · 294
+Propriété intellectuelle · 294
+propriété littéraire et artistique · 294
+Protection d’accès réseau · 256
+Protocole · 293
+Protocole d’authentification par mot de passe · 278
+Protocole de résolution d’adresse · 31
+Protocole de routage · 269, 273, 285, 293
+Protocole de transfert de fichiers · 185
+Protocole Internet Sécurisé · 222
+Protocole IP · 219
+Protocole Simple de Gestion de Réseau · 332
+Proxy · 211, 280, 294, 295, 397
+Proxy Call Session Control Fonction · 280, 397
+Proxy server · 323
+Proxy serveur · 294
+PSI
+PSP
+PSS (RSA)
+PSSI · 286, 287, 292
+PSTN · 295, 318, 397
+Public Data Network · 280, 397
+Public Key Cryptography Standard · 284, 397
+Public Key Infrastructure · 283, 397
+Public Land Mobile Network · 285, 397
+Public Switched Telephone Network · 295, 318, 397
+Publication · 295
+Puce · 295
+PUK · 295, 397
+Pulse Code Modulation · 244
+Python
