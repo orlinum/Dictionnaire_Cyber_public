@@ -55,3 +55,39 @@ Follower · 182, 340
 Fonction de hachage · 182, 196
 Fonction de sécurité · 182
 Fora · 183
+Foreign Instrumentation Signal INTelligence · 309
+Forensic · 183
+Forensique · 183
+Format · 183, 231
+Formatter
+Forme · 183, 365
+Forum · 183
+Forward Explicit Congestion Notification · 49, 177
+Forwarding Equivalence Class · 177
+Fournisseur d’accès · 183
+FOVI
+FPGA
+FPS · 176
+FPU
+FQDN · 263
+Fracture numérique
+frame · 116, 127, 164, 355
+Frame Relay · 184, 307
+frame tagging · 224
+Framework · 29, 184, 279, 326
+Freeware · 184, 188
+Fréquence · 185
+Fréquence d'Echantillonnage · 185
+Frequency · 14, 24, 62, 178, 181, 185, 268, 313, 376, 390,391, 396, 398
+Frequency channel · 62
+Frequency Division Multiple Access · 24, 176, 376, 390
+Frequency Division Multiplexing · 176, 268, 396
+Frequency Hopping Spread Spectrum · 178
+Frequency Modulation · 181
+FTP · 185, 272
+FTTH · 264
+Fuite d’information · 186
+Fuite de mémoire
+Full-duplex · 186
+Fully Qualified Domain Name · 263
+Fuzzing
