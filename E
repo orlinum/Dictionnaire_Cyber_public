@@ -1,0 +1,109 @@
+
+EAL · 90
+EAP · 124, 161
+eBGP · 49, 50
+EBIOS · 124, 125, 126, 162, 163, 267, 390
+ECB
+ECC
+Échantillonnage · 126, 163, 266
+Ecran
+EDI
+Éditeur de liens
+EEPROM
+EFF · 126, 164
+Effacement (sécurisé)
+EFI
+EFS
+EGNOS
+EGP · 126, 164
+EI · 15
+eIDAS
+EIGRP · 127, 164, 165
+EIR · 127, 165, 194, 390
+Electromagnetic Spectrum · 334
+Electronic board · 63
+Electronic communications · 79
+Electronic Fontier Foundation · 126, 164
+ELectronic INTelligence · 309
+Electronic signature · 329
+Elévation de privilège · 128, 165
+ELF
+ELINT · 309
+E-mail · 88
+e-sport
+Emacs
+Embrouillage · 128, 165
+EMC
+Émetteur – récepteur · 355
+Emoticône
+Empoisonnement de cache ARP · 32
+Empreinte · 198
+EMS
+EMSEC
+Emulateur
+Emulation · 128, 166
+EMV
+En ligne · 128, 166
+Encapsulating Security Payload · 223
+Encryption · 20, 70, 387
+Encryption key · 73
+Enhanced Interior Gateway Routing Protocol · 127, 164
+ENIAC
+ENISA · 129, 166, 390
+EnOcean
+Enregistreur de frappe · 129, 167, 234, 236
+Entrepôt de données · 129, 167
+Entreprise de Service du Numérique · 130, 168
+Envoi individuel · 364
+Equilibrage de charge
+Equipement de Terminaison de Circuits de Données · 132, 169
+Equipement Identity Register · 127, 165
+Equipement Terminal de Traitement de Données · 133, 170
+E-réputation · 130, 167
+EPROM
+Erlang · 130, 167
+ERP
+Error Rate · 344
+ESN · 130, 168, 213, 336
+ESP · 223
+ESSID · 46, 131, 168
+Etalement de spectre · 178, 335
+Etalement de spectre par saut de fréquence · 178
+Etat de l’art · 131, 168
+ETCD · 132, 169, 170
+Ethernet · 131, 169, 176, 272
+Ethernet commuté · 132, 169
+Ethical hacking · 132, 169
+Étiquette du Net · 132, 169
+ETSI · 132, 170, 210, 211
+ETTD · 133, 170
+EULA
+Euler (formule)
+European Network for Information Security Agency · 129, 166,390
+European Telecommunications Standard Institute · 132, 170
+Evaluation Assurance Level · 90
+Evaluation des besoins et identification des objectifs de sécurité · 125, 162
+Evanouissement · 133, 170
+Evasion de fréquence
+Eve (en complément d'Alice et de Bob) :) merci !
+Evénement lié à la sécurité de l’information · 133, 171
+Evil Maid (Attack)
+Excess Information Rate · 127, 165
+eXclusive OR · 383
+Executable file · 179
+Exfiltration · 134, 171
+Exploit · 134, 171
+Exploitation · 80, 134, 172, 389
+Exploration des données · 104
+Exponentiation
+Exposé · 135, 172
+Extended Service Set Identifier · 131, 168
+Extensible Authentication Protocol · 124, 161
+eXtensible Link Language · 382, 402
+eXtensible Markup Language · 382, 402
+eXtensive Messaging and Presence Protocol · 229
+exterior BGP · 49
+Exterior Gateway Protocol · 126, 164
+Externalisation · 135, 172
+Extranet · 135, 172
+Extreme programming
