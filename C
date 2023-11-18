@@ -1,0 +1,293 @@
+C2 (Command and Control)
+C (langage)
+C++
+C#
+CA · 42, 283, 388
+Câble (types)
+Câblage · 61
+Cache · 61
+cache ARP · 32
+CAdES
+Cadre d’application · 184
+cadriciel · 184
+Cage de Faraday
+CALID · 62
+CAN (bus)
+Canal caché · 62
+Canal de fréquence · 62
+Canal de transmission · 62, 372
+Canari
+CAPEC · 62, 238, 338
+capture d’écran · 291, 332
+Capture The Flag · 63
+Caractérisation · 63
+Carrier · 289, 376
+Carrier Sense Multiple Acces with Collision Detection · 131,169, 389
+Carte à puce
+Carte électronique · 63
+Carte fille · 63
+Carte mère · 63
+Carte réseau · 64, 261
+Cartouche
+Cascading Style Sheets · 92, 389
+CASE · 64
+CB · 47
+CBAC · 64, 388
+CBC · 65, 388
+CBR · 65, 369, 388
+CC · 89, 90
+CCC · 69, 388
+CCITT · 322, 381
+CCMP · 378
+CDMA · 14, 24, 177, 212, 224, 388
+CDN · 65, 388
+CDROM
+CEI · 47, 65, 208
+Cell · 65
+Cellule · 65
+CEM
+CEN · 21, 132, 170, 263
+Central Processing Unit · 292
+Centre d’Analyse et de Lutte Informatique Défensive · 62
+Centre d’Evaluation de la Sécurité des Technologies de l’Information · 67
+Centre de commutation mobile · 189
+Centre de commutation radio mobile · 66, 251
+Centre de traitement de données · 104
+Centronix
+CERT · 66, 388
+Certificat · 67
+Certificate · 67
+Certification Authority · 42
+Certification de sécurité · 67
+Certification de sécurité de premier niveau · 68
+CESTI · 67
+
+Chambre d'écho
+Sur les réseaux sociaux : ensemble d'individus si densément connectés que les informations qu'ils s'échangent sont amplifiés ou renforcées par la répétition des échanges. (Source Toxic Data de David Chavalarias).
+
+channel · 36, 46, 62, 116, 372
+Chaos Computer Club · 69
+Chapeau blanc · 68
+chapeau noir · 68
+Characterization · 63, 338
+Charge · 210, 279
+Charge active · 279
+Charge utile · 279
+Chat · 73
+chat room · 73
+Cheval de Troie · 69
+Chien de garde · 69
+Chiffrement · 70
+Chiffrement par enchaînement des blocs · 65
+Chinese Wall
+chip · 57, 295
+CHR (Chatham House Rule)
+Chroot Jail · 72
+Cible · 72
+CIDR · 372
+CIFS · 258
+CIL
+CIP (Critical Infrastructure Protection)
+Cipher Block Chaining · 65
+Circuit · 72, 73, 78
+Circuit switching · 78
+Circuit virtuel · 73
+Circuit virtuel commuté · 73
+CISC
+CISO (Chief Information Security Officer)
+Citizen’s band · 47
+Clamp
+Class of Service · 299
+Classified Information · 213
+Classless Inter-Domain Routing · 372
+Clavardage · 73
+clavardoir · 73
+Clavier
+Clavier virtuel
+Clé de chiffrement · 73
+clé privée · 42, 67, 74
+clé publique · 67, 74
+Clé symétrique · 74
+Clé USB · 75
+Clés asymétriques · 74
+Cliché · 122
+Client · 75
+Cloisonnement
+Clonage de serveur DNS · 75
+Clonage de SIM
+Cloud computing · 75
+CLUF
+CMM
+CMMI
+CMS · 76
+CNA · 80, 81, 389
+CND · 80, 81
+CNE · 80, 81, 389
+CNIL · 76, 389
+CNO · 80, 389
+CoAP
+Code · 77
+Code barre
+Code correcteur
+Code Division Multiple Access · 14, 24, 388
+Code malveillant · 77
+Code point · 286
+code source · 39, 77, 79, 191, 259, 269, 312, 321
+Codec
+Codeword
+cœur de réseau · 311
+COFF
+Coffre fort de clés
+COFRAC · 68, 298
+Colossus
+COMINT · 309
+Comité consultatif international téléphonique et télégraphique · 381
+Comité Européen de Normalisation · 132, 170, 263
+Comité Français d’Accréditation · 68, 298
+Comment · 77, 398
+Commentaire · 77
+Commission Electrotechnique Internationale · 47, 65
+Commission Nationale Informatique et Liberté · 76, 389
+Common Application Services Elements · 64
+Common Attack Pattern Enumeration and Classification · 62
+Common criteria · 90
+Common Internet File System · 258
+Common Platform Enumeration · 88
+Common Technical Regulation · 93
+Common Vulnerability Enumeration · 93
+Common Vulnerability Scoring System · 93
+Common Weakness Enumeration · 94
+Communauté · 78
+Communication dans un champ proche · 260
+COMmunication INTelligence · 309
+Communications électroniques · 79
+COMmunications SECurity
+Community · 78
+Community manager · 188
+Commutation d’étiquette · 344
+Commutation de circuits · 78
+Commutation de paquets · 78
+Commutation de paquets rapide · 176
+COMP128
+Compilateur
+Compile · 79
+Compiler · 35, 79
+Complexité (théorie de la)
+Compression de données (avec ou sans perte)
+Compromission · 80
+Computer Emergency Response Team · 66
+Computer Network Attack · 80
+Computer Network Defense · 81
+Computer Network Exploitation · 80, 81
+Computer Network Operations · 80
+Computer Security Incident Response Team · 67, 92
+Concentrateur · 81
+Condensat
+Confiance · 81
+Confidentialité · 82
+Confidentiality · 82
+Conflict · 83
+Conflit · 83
+Connecteur · 84
+Connection Less Network Service · 247
+Connection oriented communication · 246
+Connexion · 84, 272
+Constant Bit Rate · 65, 369, 388
+Constat d’audit · 84, 90
+Content · 65, 76, 84, 91, 388
+content curation · 93
+Content Delivery Network · 65, 388
+Content Management System · 76
+Conteneur
+Contenu · 84, 281
+Contournement de la politique de sécurité · 84
+Contrôle d’accès · 85, 237
+Contrôle d’accès au support · 237
+Contrôle d’Accès Unifié · 361
+Contrôle en profondeur des paquets · 120
+Contrôle parental · 85
+Convention d’audit · 85
+Convergence · 85
+Cookie · 85, 349
+Coprocesseur
+CORBA
+Core network · 311
+Corruption · 86
+CoS · 299
+COTS
+Couche physique · 86
+couche réseau · 310
+Counter mode, CBC Mac Protocol · 378
+Coupe-feu · 87
+Courant Porteur en Ligne · 89
+Courbe elliptique
+Courriel
+Courrier électronique · 88
+Covert channel · 62
+CPE · 88
+CPL · 89
+CPS (Cyber Physical System)
+CPU · 292
+CRAMM
+CRC
+Creative Commons · 89
+Créneau temporel · 89
+CRIME
+Critère d’audit · 90
+Critères communs · 90
+Critical infrastructure · 268
+CRL
+CRM
+Cross Site Scripting · 90
+Crowdfunding · 11, 91
+Crowdsourcing · 91
+CRT
+Cryptanalyse · 92
+Cryptanalysis · 92
+Cryptographic period
+Cryptographie · 92
+Cryptographie à courbe elliptique
+Cryptography · 92, 284, 397
+Cryptolocker · 303
+Cryptologie · 92
+Cryptology · 92
+Cryptovirus
+CSIRT · 67, 92
+CSMA/CD · 131, 169, 389
+CSP (Cryptographic Service Provider)
+CSPN · 67, 68
+CSS · 92, 93, 259, 389
+CTF · 63
+CTR · 93
+Curation · 93
+CVE · 93, 389
+CVSS · 93, 374
+CWE · 94
+Cyber · 94, 95, 96
+Cyber kill chain
+Cyber intelligence · 308
+Cyber résilience · 101
+Cyberattaque · 95
+Cybercommand · 96
+Cybercriminalité · 96
+Cybercriminality · 96
+Cyberdefence · 96
+Cyberdéfense · 96
+Cyberdéfense militaire · 97
+Cyberdeterrence · 97
+Cyberdissuasion · 97
+Cyberespace · 98
+Cyberguerre · 100
+Cyberharcèlement · 101
+Cyberprotection · 101
+Cybermalveillance
+Cyberrésilience · 101
+Cybersécurité · 101
+Cybersecurity · 101
+Cyberspace · 80, 98
+Cyberspace Operations · 80
+Cybersquat · 102
+Cybersquatting · 102
+Cyberstalking · 101
+Cyberwar · 100
+CYBINT · 308
