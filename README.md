@@ -1,6 +1,6 @@
 # Dictionnaire_Cyber_public #
 
-Ce repo regroupe les termes qui sont référencés dans le Dictionnaire_Cyber du M82_Project.
+Ce repo regroupe les termes qui sont référencés dans le Dictionnaire_Cyber du M82_Project. Le projet est porté par l'association et sera édité en son nom dès que nous aurons terminé.
 
 vous pouvez ici nous proposer des termes manquants et événtuellement des définitions que nous intégrerons après un processus de validation par la communauté.
 
