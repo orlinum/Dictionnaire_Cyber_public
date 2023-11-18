@@ -1,1 +1,197 @@
+A3
+A5
+A8
+
+ABCDE #intégré
+(Actors, Behaviour, Content, Degree, Effect)
+Dans le domaine de la lutte contre la désinformation, ABCDE est un framework créé par Camille François pour décrire et analyser les opérations d'influence. Initialement connu sous les initiales ABC pour "manipulative Actors, deceptive Behavior and Harmful content", le chercheur Alexandre Alaphilippe ajoute une quatrième dimmension "Distribution" puis James Pamment "Effect" pour prendre en compte l'impact de ces opérations (d'après le glossaire du EU Disnfo Lab). 
+
+
+Accès #intégré
+(Access- hit)
+Qualité qui permet de bénéficier d’un service particulier sous certaines conditions. Ainsi pour bénéficier d’une connexion Internet l’usager doit solliciter un fournisseur d’accès Internet (FAI*). En matière de télécommunication, il existe plusieurs type d’accès, de mécanisme d’accès ainsi que des techniques de contrôle d’accès*. L’accès désigne également le fait d’engager une consultation d’un document sur un serveur[1]. Ainsi, le nombre d’accès est une mesure courante de l’audience d’un site Internet ou de la fréquence de consultation d’un document. Dans cette approche, le terme en anglais le plus juste est hit.
+[1] Journal Officiel du 1er septembre 2000.
+
+Access Control List
+Accès de base
+Accès direct
+Accès multiple
+Accès Multiple par Répartition en Code
+Accès Multiple par Répartition en Fréquence
+Accès multiple par répartition temporelle
+Accès primaire
+Accès séquentiel
+Access
+Access Control
+Access network
+Access Point
+Access provider
+Accord cadre sur les technologies de l’information
+Acheminement
+ACK
+Acknowledgement
+Acquittement
+ACSE
+ACSSI 
+Action d’exploitation informatique
+Action d’influence 
+Action d’information 
+Action de lutte informatique défensive 
+Action de lutte informatique offensive 
+Ad hoc network 
+Additif
+Add-on 
+Address Resolution Protocol 
+Address
+Address spoofing 
+Administration de réseau 
+ADP 
+Adressage 
+Adressage absolu 
+Adressage hiérarchique 
+Adressage logique 
+Adressage physique 
+Adresse 
+Adresse IP 
+Adresse MAC 
+Adresse réticulaire 
+adresse universelle 
+Adresse URL 
+ADSL 
+Advanced Encryption Standard 
+Advanced Evasion Techniques 
+Advanced Persistant Threat 
+Advanced Research Projects Agency Network 
+AES 
+AET 
+AFF (Advanced Forensic Format)
+Affaiblissement du signal 
+AFNIC 
+AFNOR 
+AFP 
+AfriNIC 
+Agence Nationale de la Sécurité des Systèmes d’Information 
+Agence Nationale des Fréquences 
+Agent 
+agent intelligent 
+agent logiciel 
+Agile (méthode) 
+Agrément de sécurité
+AGLXX
+AH 
+AIXX
+Air gap 
+air wall
+AléaXX
+Algorithme 
+algorithme de Bellman-Ford 
+Algorithme de Dijkstra
+Algorithme de Karn 
+
+Algorithme de recommandation #intégré
+Programme informatique qui, en ligne, vous recommande des contenus parmi l'ensemble des contenus possibles, souvent sur la base de qu'il connait de vous. source : "Toxic Data" David Chavalarias.
+
+Algorithme de routage 
+Algorithme de routage à état de liaisons 
+Algorithme de routage par vecteur de distance 
+Alice 
+Allocation de ressources 
+Allocation mobile 
+Alternat 
+American Standard Code for Information Interchange 
+Amorce 
+AMRC 
+AMRF 
+AMRT 
+Analog(ue) signal 
+Analogic
+Analogique 
+Analyse de trafic
+Analyse intelligente des données 
+AnalyticsXX
+Anchor 
+Ancre 
+ancre de lien 
+Android 
+ANFR 
+Anneau à jeton 
+Anonymat 
+Anonymisation 
+Anonymity 
+Anonymous 
+ANSIxx
+ANSSI 
+Antivirus 
+API 
+APNIC 
+App Store
+Appairage 
+Apple Filing Protocol 
+Application 
+Application Common Service Elements 
+Application Programming Interface · 28
+Apprentissage automatique · 238
+APT · 29, 387
+AQSSI (Autorité Qualifiée de Sécurité des Systèmes d'Information) XX
+Arbre recouvrant · 334
+Architecture Orientée Service · 332
+archivage · 31
+Archive · 31
+Argon2xx
+ARIN · 307
+ARMxx
+Arobase · 34
+ARP · 31, 32, 239, 253
+ARP poisoning · 32
+ARP spoofing · 32
+ARPANET 
+Artificial Intelligencexx
+AS 
+ASCII · 
+ASN.1xx
+Assemblage / désassemblagexx
+Assembler · 34
+Assembleur · 34
+Association Française de NORmalisation 
+
+Astroturfing 
+Comportement inauthentique coordonnés, parfois amplifié par des programmes informatiques, qui vise à faire croire qu'une cause remporte l'adhésion d'un grand nombre de personnes.
+
+Asymmetric · 35xx
+Asymétrie · 35
+Asymmetrical Digital Subscriber Line · 20, 387
+Asynchronous Transfer Mode · 246f
+Asynchronus Transmission Mode · 247
+ATM · 176, 246, 247, 251, 272, 285
+at-sign · 34
+Attachment · 282
+Attack · 36, 62, 80, 95, 328, 389
+Attack signature · 328
+Attaque · 36
+Attaque par canal auxiliaire · 36
+attaque par force brute · 58, 357
+Attaque par point d’eau · 37
+Attaque par réflexion ·31 331
+Attribution · 38
+Audience · 38
+Audit · 38, 39, 90, 280
+Auditabilité · 40
+Authentication Header · 223
+Authenticité · 40
+Authenticity · 40
+Authentification · 40
+Authentification unique · 337
+Autoclave · 41
+Autocommutateur · 222
+Autocommutateur privé · 222
+Autocommutateur téléphonique privé · 277
+Automatic data processing · 354
+Autonomous System · 41
+Autorité d’homologation · 42
+Autorité de certification · 42
+Availability · 115
+Avatar · 42
+AXFR · 42, 43, 356
+Ayant droit · 43
+
 
