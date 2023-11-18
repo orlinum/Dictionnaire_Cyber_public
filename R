@@ -1,0 +1,167 @@
+RA (Registration Authority)
+Rabbit · 301
+Rack · 301
+RAD
+Radio Frequency Identification · 313, 398
+Radio Link Control · 314, 398
+Radio-identification · 313
+RADIUS · 124, 162, 301
+Rainbow series
+Rainbow tables · 303
+RAM · 64, 303, 398
+Rançongiciel · 303
+Random number
+Random access · 13
+Random Access Memory · 303, 398
+Ransomware · 303
+Rapport signal / bruit · 304
+RARP · 304, 398
+RAT · 122, 123, 304, 398
+rate · 106, 382
+Rayleigh scattering · 115 (et pourquoi pas aussi Raman et Mie ?)
+RBAC
+RBL · 304, 398
+RDP -- Remote Desktop Protocol
+
+    Protocole propriétaire Microsoft, RDP permet la connexion entre un client et un serveur utilisant Microsoft Terminal Services (MTS). Le serveur est en écoute sur le port 3389. RDP peut être utilisé par des acteurs malveillants pour installer des malwares à distance sur une machine, ou tous simplement en prendre le contrôle à distance.
+
+Read Only Memory · 315, 398
+Real Time Streaming Protocol · 318, 398
+Realtime Blackhole List · 304, 398
+Real-time Transport Control Protocol · 318, 398
+Real-time Transport Protocol · 318, 398
+Réalité augmentée
+Réalité virtuelle
+Record · 31, 193
+Redondance · 304
+Redundancy · 279, 304
+Red Hat
+Red Team(ing)
+Red/black separation
+Référencement · 304
+Référentiel · 39, 40, 84, 85, 90, 131, 134, 168, 171, 182,207, 280, 291, 305, 306, 322, 329, 350
+Référentiel général de sécurité · 305
+Regional Internet Registry · 306, 398
+Register · 306
+registered ports · 288
+Registre · 306, 398
+Registre à décalage
+Registre Internet Régionaux · 306
+Règle de détection · 305
+Relai de trame · 184
+Relais de trame · 307
+Remediation · 307
+Remédiation · 307
+Remote Access Trojan · 123, 304
+Remote Administration Tool · 304
+Remote Authentication Dial-In User Service · 124, 162
+Remote Authentification Dial In Users Services · 301
+Remote Procedure Call · 261
+Renifleur · 307
+Reno · 345
+Renseignement d’Intérêt Cyber · 308
+Renseignement d’Origine Cyber · 308, 398
+Renseignement d’Origine ÉlectroMagnétique · 309
+Répartiteur
+Repeater · 309
+Répertoire · 309
+Répéteur · 309
+Repository · 284, 305
+Reprise (point de) · 309
+Répudiation · 309
+Request for comment · 312
+Réseau · 65, 66, 103, 224, 239, 242, 272, 280, 285, 295,310, 311
+Réseau à valeur ajoutée · 310
+Réseau corporel · 55
+Réseau cryptographique
+Réseau d’accès · 310
+Réseau d’infrastructure · 311
+Réseau de clés
+Réseau de distribution de contenus · 65
+Réseau de neurones
+Réseau de Pétri
+Réseau de zombies · 311
+Réseau étendu · 311, 375
+Réseau indépendant · 311
+Réseau local sans fil · 378
+Réseau local virtuel · 371
+Réseau maillé · 242
+Réseau métropolitain · 239
+Réseau Mobile Terrestre Public · 285
+Réseau Numérique à Intégration de Données · 224
+Réseau Numérique à Intégration de Services · 314, 398
+Réseau privé virtuel · 312, 372
+Réseau public de transmission de données · 280
+Réseau sans fil personnel · 378
+Réseau Téléphonique Commuté · 318, 398
+Réseaux ad hoc · 310
+Réseaux radio mobiles professionnels · 285
+Residual error-rate · 345
+Résilience · 312
+Résolution
+Resource Reservation Protocol · 317, 398
+Responsable de la Sécurité des Systèmes d’Information · 317,398
+REST
+Rétro-ingénierie · 312
+reverse · 312
+Reverse Address Resolution Protocol · 304
+Reverse engeniring · 312
+Révocation
+Revocation
+RFC · 18, 41, 43, 49, 50, 88, 113, 124, 162, 185, 192, 205,209, 221, 222, 224, 228, 231, 233, 235, 242, 244, 259, 260, 261, 262, 269, 273,274, 278, 284, 288, 289, 290, 312, 356, 398
+RFID · 219, 313, 398
+RGS · 39, 40, 84, 85, 90, 131, 168, 182, 280, 291, 298, 305
+RGPD (Règlement Général de Protection des Données)
+RIC · 308, 398
+Rijndael
+Ring
+RIP · 23, 273, 294, 313, 398
+RIPE-NCC · 306
+Riper · 313
+RIR · 41, 205, 306, 398
+RISC
+Risk · 314
+Risque · 314
+risque résiduel · 314
+Rivest, Shamir, Adelman · 317, 398
+RJ 11
+RJ 45 · 314
+RLC · 314, 398
+RMI
+RNG
+RNIS · 13, 193, 199, 224, 314, 398
+Roadmap
+Roaming · 227
+ROC · 308, 398
+ROEM · 264, 309
+ROM · 64, 180, 303, 315, 398
+root name server · 324
+Root server · 324
+Rootkit · 315
+Routage · 41, 192, 209, 316
+Routage Générique par encapsulation · 192
+route par défaut · 344
+Router · 251, 316
+routes dynamiques · 316, 344
+routes statiques · 316, 344
+Routeur · 316
+Routing · 14, 23, 127, 164, 192, 269, 316, 396
+Routing Information Protocol · 23, 313, 398
+Routing protocol · 293
+Routing table · 343
+RPC · 261
+RPMA
+RPV · 372
+RSA · 280, 284, 317, 398
+RS 232
+RSS (flux)
+RSSI · 317, 398
+RSVP · 251, 317, 398
+RTC · 78, 193, 244, 246, 281, 295, 318, 398
+RTCP · 318, 398
+RTF
+RTFM (en priorité :-))
+RTP · 210, 318, 398
+RTSP · 318, 398
+Rustine
+RVA · 310
