@@ -1,0 +1,57 @@
+factorisation
+facturation · 200, 210, 274, 280
+Fading · 133, 170, 171
+FAI · 175
+Faille · 175
+Faisceau Hertzien · 176, 177
+Fake News
+Fanion · 176
+Faradisation
+Fast Basic Service Transition · 227
+Fast Ethernet · 176
+Fast Packet Switching · 176
+FAT
+Fault tolerance · 352
+Fax
+FDM · 176
+FDMA · 14, 24, 176, 390
+FEC · 177, 251
+FECN · 49, 177
+Fedora
+Femtocell · 177
+Fenêtre contextuelle · 177
+Feuilles de styles en cascade · 92
+FH · 176, 177
+FHSS · 55, 178
+Fiber To The Home · 264
+Fibre monomode · 331
+Fibre noire · 178
+Fibre optique · 178
+Fichier exécutable · 179
+FIFO · 179
+File Transfert Protocol · 185
+Filoutage · 179
+Filter · 179
+Filtrage · 179
+Financement participatif · 91
+FIPS
+Firewall · 87, 179, 279
+FireWire · 180
+Firmware · 180
+FIRST
+First in First out · 179
+FISINT · 309
+flag · 121, 176
+Flame · 180
+Flash (Adobe)
+Flash (mémoire)
+Flop
+Flow · 106
+Flux · 339
+FM · 181, 391
+FNTC · 82
+FO
+Follower · 182, 340
+Fonction de hachage · 182, 196
+Fonction de sécurité · 182
+Fora · 183
