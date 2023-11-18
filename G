@@ -1,0 +1,53 @@
+G.711
+GAFAM
+Galiléo · 192
+Gamer
+Gartner quadrant
+Gateway · 41, 49, 187, 188, 388, 392
+Gateway Mobile Switching Center · 189, 391
+Gaussian Minimum Shift Keying · 189, 391
+GDN · 188
+GDPR (General Data Protection Regulation)
+Generic Routing Encapsulation · 192
+Génération de clé
+Gentoo
+Génie Logiciel
+Gestion de clé
+Gestion des droits numériques · 188
+Gestionnaire de communauté · 188
+Gestion des identités
+GGSN · 188
+GHDB · 191
+GIF
+Gigabit Ethernet · 189
+Gigogne (prise)
+Gigue · 189, 230
+Git
+GIX · 189
+Global Internet eXchange · 189
+Global Packet Radio System · 191
+Global Positioning System · 191, 342
+Global System for Mobile communications · 193
+Glonass · 192
+GMSC · 189, 391
+GMSK · 189, 391
+GNSS
+GNU
+Going viral · 281
+Google · 104, 189, 190, 191, 305, 356
+Google Dorks · 191
+Google Hacking DataBase · 191
+GPL
+GPRS · 188, 191, 391
+GPS · 191, 342
+GPU
+Graine (cryptographique)
+Gratuiciel · 184, 188
+Gravité · 192
+GRE · 192
+Growth Hacking: 
+Le terme regroupe les mots anglais growth (croissance) et hacking (détournement-modification) il est employé pour qualifier un ensemble de technique marketing dont l'objectif est de favoriser le développement d'une start up.
+Le growth hacker tente d’optimiser les metrics AARRR (L'acquisition, l'activation, la retention, le referral et bien sûr le revenu) par tous les moyens, en mettant en place des expériences jusqu’à ce qu'il trouve la ou les pistes qui permettent de faire grossir sa start-up et puis les automatise/les systématise.
+Le Growth Hacking est utilisé, notamment, par les entreprises de e-services suivantes Airbnb, Facebook, Dropbox, Groupon, Instagram, LinkedIn, Pinterest, Twitter, Udemy, YouTube, etc.
+GSM · 59, 132, 170, 188, 189, 191, 193, 194, 391
+guaranteed service · 299
