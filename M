@@ -1,0 +1,169 @@
+M2M
+MA · 237, 394
+Mac (Apple)
+MAC · 19, 127, 164, 237, 272, 394
+MAC (Message Authentication Code)
+Machine Learning · 238
+Machine virtuelle
+MAC Locking
+macro · 321
+macrocommande · 321
+MAEC · 238, 394
+Magasin de clés
+Mail bombing · 56
+Mail Harvesting · 238
+Maillage · 238
+Mainframe
+MAIO · 239, 394
+Maitrise d'Ouvrage · 246, 394
+Maitrise d’œuvre · 246, 394
+Maliciel
+Malware · 77, 238, 239, 338, 394
+Malware Attribute Enumeration and Characterization · 238, 394
+MAMBO · 76
+MAN · 239, 394
+Man in the middle · 239
+Man Machine Language · 246, 394
+Management Information Base · 243, 394
+Manager SNMP · 239
+MARION
+Marqueur (d’attaque) · 240, 250
+marqueur d’activité malveillante · 240
+marqueur de compromission · 240
+MASINT
+Masque de sous-réseau de longueur variable · 372
+Masque jetable · 274
+Master Boot Record · 241, 394
+Matériel · 241
+MAU · 352
+Maximum Transmission Unit · 252, 395
+MBR · 241, 394
+MCC · 211, 242, 394
+MD5 · 124, 162, 242, 394
+Meaconing
+Mean Time Between Failure · 251, 395
+Media Access Control · 237, 394
+Media Gateway · 243, 394
+Media Gateway Control Function · 243, 394
+Medium Access Control address · 19
+mégadonnées · 51
+MELISA
+Mél
+Memory Dump
+Memory stick · 75
+Menace
+Merkle (arbre de)
+mesh · 238, 239
+Mesh Network · 242
+Message Digest 5 · 124, 162, 242, 394
+Message Transfer Agent · 251, 395
+Message Transfer System · 252, 395
+Messagerie multimédia · 242
+Messagerie texte · 242
+Métadata · 243
+Métadonnée · 243
+Metasploit · 243, 279, 326
+Méthode formelle
+Metropolitan Area Network · 239, 394
+MGCF · 243, 394
+MGW · 243
+MIB · 243, 394
+MIC · 244, 394
+Micrologiciel · 180
+microprocesseurs multi-cœurs · 292
+Middleware · 244
+Millitary Cyberdefence · 97
+MILS
+MIME · 244, 394
+MIMO · 244, 394
+Mining
+Mint
+MIPS
+Miroir (site)
+Mise à jour · 245
+MISO · 245, 394
+MITM · 239
+MITRE · 62, 88, 94, 238, 245, 338
+MLS
+MMF · 178, 245, 394
+MML · 246, 394
+MMS · 242, 246, 394
+MMU
+MNC · 211, 245, 394
+MOA · 246, 394
+Mobile Allocation · 237, 394
+Mobile Allocation Index Offset · 239, 394
+Mobile Country Code · 211, 242, 394
+Mobile Network Code · 211, 245, 394
+Mobile service Switching Centre · 251
+Mobile station ISDN number · 251, 395
+Mobile Subscriber Identification Number · 212, 251, 395
+Mobile Virtual Network Operator · 252, 395
+Mode (chiffrement)
+Mode connecté · 246
+Mode de transfert asynchrone · 246
+Mode de transmission asynchrone · 247
+Mode de transmission synchrone · 247
+mode infrastructure · 46, 59, 377
+Mode non connecté · 247
+Modèle · 248, 272
+Modèle 
+Modem · 248
+Modérateur · 248
+Moderator · 248
+Modulateur · 248
+Modulation · 189, 244, 248, 391, 394
+Modulation à déplacement minimum gaussien · 189
+Modulation à spectre étalé · 249
+Modulation de fréquence · 181
+Modulation par Impulsions Codées · 244, 394
+Module complémentaire · 16
+MOE · 246, 394
+Moindre privilège · 249
+Moisson de courriels · 238
+MOOC
+Moore · 249
+Morris Worm
+Mosaic
+MOSPF · 249, 274, 394
+Mot de passe
+Mot dièse · 198
+Moteur de recherche · 250
+Mother board · 63
+mothercard · 63
+Motif · 250
+Monero (Monnaie virtuelle)
+MPEG
+MPLS · 177, 250, 251, 394
+MQTT
+MSC · 251
+MSDOS
+MSIN · 212, 251, 395
+MSISDN · 200, 251, 395
+MTA · 251, 395
+MTBF · 251, 395
+MTS · 252, 395
+MTTF
+MTU · 252, 395
+Multi Mode Fiber · 178
+Multicast · 249, 252, 274, 316, 394
+Multicast extension Open Shortest Path First · 249, 394
+Multimédia · 210
+Multimedia Messaging Service · 242
+Multimode Fiber · 245, 394
+Multiple Access · 13, 24, 176
+Multiple In / Single Out · 245, 394
+Multiple Input / Multiple Output · 244, 394
+Multiplex · 252
+Multiplexage · 252
+Multiplexage par code large bande · 376
+Multiplexage par répartition autonome de fréquence · 268
+Multiplexage temporel · 348
+Multiplexeur d’accès à la ligne d’abonné numérique · 121
+MultiProtocole Label Switching · 250, 394
+Multipurpose Internet Mail Extensions · 244, 394
+Multistation Access Unit · 352
+multi-trames · 204
+MUX/DEMUX
+MVNO · 252, 395
+Mystification · 253
