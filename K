@@ -1,0 +1,18 @@
+Kali Linux
+Kasumi
+KDC · 233, 235
+Kerberos · 233, 235
+Kerckoffs
+Kernel · 233, 235
+Key Distribution Center · 233, 235
+Key Escrow
+Key Management Center
+Key Ring
+Key Safe
+Key Store
+Keylogger · 129, 167, 234, 236
+Keystroke Logger · 129, 167
+Kill Switch · 234, 236
+Killer App
+Killer Services · 234, 236
+KLoC
