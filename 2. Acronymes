@@ -45,6 +45,7 @@ CEN : Comité Européen de Normalisation.
 CERT : Computer emergency response team.
 CFB : Cipher FeedBack.
 CFU : Call Forwarding Unconditional.
+CIRT : Cyber Incident Response Team.
 CIDR : Classless Inter-Domain Routing.
 CMS : Content Management System.
 CNA : Computer Network Attack.
@@ -106,6 +107,7 @@ GGSN : Gateway GPRS Support Node.
 GMSC : Gateway Mobile Switching Center.
 GMSK : Gaussian Minimum Shift Keying.
 GPRS : General Packet Radio Service.
+GRC : Governance Risk and Compliance
 GRE : Generic Routing Encapsulation.
 GSM : Global System for Mobile Communications.
 HD : Haut débit
@@ -121,6 +123,7 @@ HTTP : Hypertext transfer protocol.
 HTTPS : Hypertext transfer protocol secured.
 IAB : Internet Activities Board.
 IAB : Internet Architecture Board.
+IAM : Identity and Acces Management
 IANA : Internet Assigned Numbers Authority.
 ICANN : Internet Corporation for Assigned Names and Num-bers.
 ICMP : Internet Control and error Message Protocol.
@@ -147,6 +150,7 @@ ISL : Inter Switch Link.
 ISO : International Standard Organisation.
 ISOC : Internet SOCiety.
 ISTAR : Intelligence, surveillance, target acquisition, and recon-naissance.
+IT : Information Technology
 ITA : Information Technology Agreement.
 ITIL : Information Technology Infrastructure Library.
 ITU : International Telecommunication Union.
@@ -198,6 +202,8 @@ MPLS - MultiProtocole Label Switching.
 MSC : Mobile Switching Center.
 MSIN : Mobile Subscriber Identification Number.
 MSISDN : Mobile station ISDN number.
+MSP : Managed Service Provider.
+MSPP : Managed Security Service Provider.
 MTA : Message Transfer Agent.
 MTBF : Mean Time Between Failure.
 MTS : Message Transfer System.
@@ -221,8 +227,9 @@ NIDS : Network Intrusion Detection System.
 NIS : Network Information Services.
 NIST : National Institute of Standards and Technology.
 NMS : Network Management System.
-NNI : Network to Network Interface 
-NNTP : Network News transfert Protocol
+NNI : Network to Network Interface. 
+NNTP : Network News transfert Protocol.
+NOC : Network Operations Center.
 NRA : Nœud de Raccordement d’Abonné.
 NRO : Nœud de Raccordement Optique .
 NSA : National Security Agency.
