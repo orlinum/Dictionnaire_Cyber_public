@@ -263,7 +263,14 @@ Curation · 93
 CVE · 93, 389
 CVSS · 93, 374
 CWE · 94
-Cyber · 94, 95, 96
+Cyber 
+
+Cyber assurance : 
+La cyber-assurance, également appelée cyber-assurance de responsabilité civile ou encore assurance de cybersécurité, couvre les pertes financières causées par les cyber-incidents et cyber-attaques. Encore sous estimés, les coûts liés au risque cyber peuvent pourtant être conséquents. 
+
+rapport : 
+https://www.tresor.economie.gouv.fr/Articles/2022/09/07/remise-du-rapport-sur-le-developpement-de-l-assurance-du-risque-cyber
+
 Cyber kill chain
 Cyber intelligence · 308
 Cyber résilience · 101
