@@ -22,9 +22,13 @@ ARPANET : Advanced Research Projects Agency NETwork.
 ASCII : American Standard Code for Information Interchange.
 AuC : Authentication Center.
 BAN : Body Area Network.
+BCDR : Business Continuity and Disaster Recovery.
+BC : Business continuity
+BCP : Business Continuity Plan.
 BECN : Backward explicit congestion notification.
 BGP : Border Gateway Protocol.
 BI : Business Intelligence.
+BIA : Business impact analysis.
 BIOS : Basic Input Output System.
 BSC : Base Station Controller.
 BSS : Base Station Subsystem.
@@ -38,22 +42,29 @@ CBAC : Context-Based Access Control.
 CBC : Cypher block chain.
 CBR : Constant Bit Rate.
 CC : Creative Commons.
+CC : Common Criteria
 CCC : Chaos Computer Club.
 CDMA : Code Division Multiple Access.
 CDN : Content Delivery Network.
 CEI : Commission Electrotechnique Internationale.
 CEN : Comité Européen de Normalisation.
+CER : Crossover Error Rate
 CERT : Computer emergency response team.
 CFB : Cipher FeedBack.
 CFU : Call Forwarding Unconditional.
+CIA : Confidentiality, Integrity, Availability
 CIRT : Cyber Incident Response Team.
 CIDR : Classless Inter-Domain Routing.
 CMS : Content Management System.
+CMMI : Capability Maturity Model Ennumeration
 CNA : Computer Network Attack.
 CNE : Computer Network Exploitation.
 CNIL : Commission Nationale Informatique et Liberté.
 CNO : Computer Network Operation.
+COBIT : Control Objectives for Business & Related Technology
 COIN : Contre insurrection.
+CORBA : Common Object Request Broker Architecture
+CWE : Common weakness enumeration
 CPE : Common Platform Enumeration.
 CPL : Courant Porteur en Ligne.
 CSMA/CD : Carrier Sense Multiple Acces with Collision Detec-tion.
@@ -62,13 +73,16 @@ CTR : Common Technical Regulation.
 CVE : Common Vulnerabilities and Exposure.
 CVSS : Common Vulnerability Scoring System.
 CWE : Common Weakness Enumeration.
+DAC : Discretionary access control.
 DARPA : Departement of Advanced Research Projects Agency.
+DBMS : Database Management System
 DCS : Digital Communication System.
 DDOS : Distributed Deny Of Service.
 DECT : Digital Enhanced Cordless Telecommunication.
 DEFCON : Defense Condition.
 DEP : Data Execution Prevention.
 DES : Data encryptions Standard.
+DGPS : Differential GPS
 DHCP : Dynamic Host Configuration Protocol.
 DLCI : Data Link Channel Identifier.
 DLL : Dynamic Link Library, bibliothéque de liens dynamique.
@@ -76,10 +90,14 @@ DMZ : DeMilitarized Zone.
 DNS : Domain Name System.
 DOS : Deny Of Service.
 DPI : Deep packet inspection.
+DR : Disaster recovery.
+DRP : Disaster recovery plan.
 DRM : Digital Right Management.
 DSS : Digital Signature Standard.
+EAL : Evaluation Assurance Level.
 EAP : Extensible Authentication Protocol.
 EBIOS : Expression des Besoins et Identification des Objectifs de Sécurité.
+EF : Exposure factor
 EFF : Electronic Fontier Foundation.
 EGP : Exterior Gateway Protocol.
 EIGRP : Enhanced Interior Gateway Routing Protocol.
@@ -92,6 +110,8 @@ ETCD : Equipement de Terminaison de Circuits de Données.
 ETSI : European Telecommunications Standard Institute.
 ETTD : Equipement Terminal de Traitement de Données.
 FAI : Fournisseur d’Accès à Internet.
+FAR : False Acceptance Rate.
+FCoE : Fibre Channel over Ethernet
 FDM : Frequency Division Multiplexing.
 FDMA : Frequency Division Multiple Access.
 FEC : Forwarding Equivalence Class.
@@ -101,6 +121,7 @@ FHSS : Frequency Hopping Spread Spectrum.
 FIFO : First in First out.
 FM : Frequency Modulation.
 FPS : Fast Packet Switching.
+FRR : False Rejection Rate.
 FSN : Fournisseur de Service Numériques.
 FTP : File Transfert Protocol.
 GAFA : Google, Apple, Facebook, Amazon.
@@ -108,6 +129,7 @@ GGSN : Gateway GPRS Support Node.
 GMSC : Gateway Mobile Switching Center.
 GMSK : Gaussian Minimum Shift Keying.
 GPRS : General Packet Radio Service.
+GPS : Global Positioning System.
 GRC : Governance Risk and Compliance
 GRE : Generic Routing Encapsulation.
 GSM : Global System for Mobile Communications.
@@ -134,6 +156,7 @@ IDS : Intrusion Detection Systems,
 IEC : International Electrotechnical Commission.
 IEEE : Institute of Electrical and Electronics Engineers.
 IETF : Internet Engineering Task Force.
+IGMP : Internet Group Management Protocol
 IGP : Interior Gateway Protocol.
 IHM : Interface Homme Machine.
 IMEI : International Mobile Station Equipment Identity.
@@ -141,13 +164,17 @@ IMS : IP Multimédia Subsystem.
 IMSI : International Mobile Subscriber Identity.
 IMT 2000 : International Mobile Telecommunications 2000.
 IOT : Internet Of Things.
+IP : Internet Protocol
 IPBX : Internet Protocol-Private Branch Exchange.
 IPS - Intrusion Prevention System.
 IPSEC : Internet Protocole Security.
+IPPD : Integrated Process and Product Development
 IRTF : Internet Research Task Force.
+ISACA : Information System Audit And Control Association
 ISDN : Integrates Services Digital Network.
 IS-IS : Intermediate Sytem to Intermediate System.
 ISL : Inter Switch Link.
+ISMS : Information security management system
 ISO : International Standard Organisation.
 ISOC : Internet SOCiety.
 ISTAR : Intelligence, surveillance, target acquisition, and recon-naissance.
@@ -155,6 +182,7 @@ IT : Information Technology
 ITA : Information Technology Agreement.
 ITIL : Information Technology Infrastructure Library.
 ITU : International Telecommunication Union.
+IV : Initialization vector
 IXFR : Incremental Zone Transfer.
 J2SE : Java 2 Standard Edition.
 J2EE : Java 2 Entreprise Edition.
@@ -162,6 +190,7 @@ J2ME : Java 2 Micro Edition.
 JPEG : Joint Picture Expert Group.
 JS : Java Script.
 JSON : JavaScript Object Notation.
+KDD : Knowledge Discovery Databases.
 LA : Location Area.
 LAC : Location Area Code.
 LAI : Location Area Identification.
@@ -180,7 +209,10 @@ LSR : Label Switching Router.
 LTE : Long Term Evolution.
 MA : Mobile Allocation.
 MAC : Media Access Control.
-MAEC - Malware Attribute Enumeration and Characteriza-tion.
+MAC : Mandatory Sccess controls.
+MAC : Message authentication code.
+MAD : Maximum allowable Downtime
+MAEC : Malware Attribute Enumeration and Characteriza-tion.
 MAIO : Mobile Allocation Index Offset.
 MAN : Metropolitan Area Network
 MBR : Master Boot Record.
@@ -207,6 +239,7 @@ MSP : Managed Service Provider.
 MSPP : Managed Security Service Provider.
 MTA : Message Transfer Agent.
 MTBF : Mean Time Between Failure.
+MTD : Maximum Tolerable Downtime.
 MTS : Message Transfer System.
 MTU : Maximum Transmission Unit.
 MVNO : Mobile Virtual Network Operator.
@@ -218,9 +251,11 @@ NAT : Network Address Translation.
 NAT- PT : Network Address Translation - Protocol Translator.
 NBMA : Non-Broadcast Multi-Access.
 NCIRC : NATO Computer Incident Response Capability.
+NDA : Non disclosure aggrement
 NEB : Numérisation de l’espace de bataille.
 NFC : Near Field Communication.
 NFS : Network File System.
+NFV : Network Function Virtualization.
 NIC : Network Information Center.
 NIC : Network Interface card.
 NIDP : Network Intrusion Detection and Prevention.
@@ -239,7 +274,9 @@ NSS : Network Sub System.
 NSS : Network Security Services.
 NTI : Nœud de Transit International.
 NTIC - Nouvelles Technologies de l’Information et de la Communication.
+OAuth : Open Authorization
 OBL : Opérateur de Boucle Locale.
+OCTAVE : Operationally critical Threat, Asset and Vunerability Evaluation
 OFDM : Orthogonal Frequency Division Multiplexing.
 OIV : Opérateur d’importance vitale.
 OLSR : Optimized Link State Routing Protocol.
@@ -255,14 +292,18 @@ OTP : One Time Pad.
 PABX : Private Automatic Branch Exchange.
 PAN : Personal Area Network
 PAP : Password Authentication Protocol.
+PAT : Port Address Translation
 PBX : Private Branch Exchange.
 PCA : Plan de continuité d’activité.
 P-CSCF : Proxy Call Session Control Fonction
 PDN : Public Data Network.
 PGP : Pretty Good Privacy.
+PII : Personnal Identifiable Information.
+PHI : Personnal Health information.
 PIN : Personnal Identification Number.
 PKI : Public Key Infrastructure.
 PKCS : Public Key Cryptography Standard.
+PLC : Packet Loss Concealment
 PLMN : Public Land Mobile Network.
 PMR : Professional Mobile Radio.
 PNNI : Private Network Network Interface.
@@ -270,16 +311,19 @@ PoP : Point of Presence.
 POP3 : Post Office Protocol 3.
 POTS : Plain Old Telephone Service.
 PPP : Point to Point Protocol.
+PPS : Pulse Per Second
 PPTP : Point-to-Point Tunneling Protocol.
 PRA : Plan de Reprise d’Activité.
 PRI : Primary Rate Interface.
 PSTN : Public Switched Telephone Network.
 PUK : PIN Unblocking Key.
 QOS : Quality Of Service.
+RA : Registration authority.
 RAM : Random Access Memory
 RARP : Reverse Address Resolution Protocol.
 RAT : Remote Acces Trojan.
 RAT : Remote Administration Tool.
+RBAC : Role-based access control
 RBL : Realtime Blackhole List.
 RFC : Request For Comment.
 RFID : Radio Frequency Identification.
@@ -291,13 +335,17 @@ RNIS : Réseau Numérique à Intégration de Services.
 ROC : Renseignement d’Origine Cyber.
 ROM : Read Only Memory.
 RPC : Remote Procedure Call.
+RPO : Recovery Point Objective.
 RSA : Rivest, Shamir, Adelman.
 RSSI : Responsable de la Sécurité des Systèmes d’Information.
 RSVP : Resource Reservation Protocol.
 RTC : Réseau Téléphonique Commuté.
 RTCP : Real-time Transport Control Protocol.
+RTO : Recovery Time Objective.
 RTP : Real-time Transport Protocol.
 RTSP : Real Time Streaming Protocol. 
+RuBAC : Rule-based access control
+RUM : Real User Monitoring.
 S/MIME : Secure / Multipurpose Internet Mail Extensions.
 SAP : Service Advertising Protocol.
 SCADA : Supervisory Control And Data Acquisition.
