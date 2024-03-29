@@ -180,7 +180,7 @@ LSR : Label Switching Router.
 LTE : Long Term Evolution.
 MA : Mobile Allocation.
 MAC : Media Access Control.
-MAEC - Malware Attribute Enumeration and Characteriza-tion.
+MAEC : Malware Attribute Enumeration and Characterization.
 MAIO : Mobile Allocation Index Offset.
 MAN : Metropolitan Area Network
 MBR : Master Boot Record.
@@ -298,11 +298,13 @@ RTC : Réseau Téléphonique Commuté.
 RTCP : Real-time Transport Control Protocol.
 RTP : Real-time Transport Protocol.
 RTSP : Real Time Streaming Protocol. 
+SH : Safe Harbor.
 S/MIME : Secure / Multipurpose Internet Mail Extensions.
 SAP : Service Advertising Protocol.
 SCADA : Supervisory Control And Data Acquisition.
 SDLC : Synchronous Data Link Control.
 SDMX : Statistical Data and MetaData eXchange.
+SDN: Software defined networks.
 SDU : Service Data Unit.
 SGML : Standard Generalized Markup Language.
 SHA : Secure Hash Algorithm.
@@ -310,6 +312,8 @@ SHTTP : Secure Hypertext Transfer Protocol.
 SIEM : Security Information and Event Management System.
 SIM : Subscriber Identity Mobile.
 SIP : Session Initiation Protocol.
+SLA : Service Level Agremment.
+SLR : Service level Requirement.
 SMB : Server Message Block.
 SMF : Single Mode Fiber.
 SMS : Short Message Service.
@@ -331,14 +335,17 @@ STAD : Système de traitement automatisé de données.
 STIX : Structured Threat Information eXpression.
 TA : Time Advance.
 TAXII : Trusted Automated of Indicator Information.
+TCB : Trusted Computing Base
 TCP : Transmission Control Protocol.
 TD/CDMA : Time Division / CDMA.
 TDM : Time Division Multiplexing.
 TDMA : Time Division Multiple Access.
 TKIP : Temporal Key Integrity Protocol.
 TLD : Top Level Domain.
+TOCTOU : Time Of Check Time Of Use
 TOR : The Onion Router.
 TRAU : Transcoding Rate and Adaptation Unit.
+TPM : Trusted Platform Module
 TTL : Time-To-Live.
 UAC : Unified Access Control.
 UCS: Universal Character Set.
@@ -347,6 +354,7 @@ UIT : Union Internationale des Télécommunications.
 UMTS : Universal Mobile Telecommunication System.
 UMTS -TDD : Universal Mobile Telecommunication System Time Division Duplex.
 UNI : User to Network Interface.
+UPS : Uninterruptible Power Supplie.
 URI : Uniform Resource Identifier.
 URL : Uniform Resource Locator.
 URN : Uniform Ressource Name.
@@ -358,17 +366,21 @@ VLAN : Virtual Local Area Network.
 VLR : Visitor Location Register.
 VLSM - Variable-Length Subnet Mask.
 VOD : Video On Demand.
+VoIP : Voice over Internet Protocol.
 VPN : Virtual Private Network.
 VPS : Virtual Private Server.
 VSAT : Very Small Aperture Terminal.
 W3C : World Wide Web Consortium.
+WAAS : Wide Area Augmentation System
 WAN : Wide Area Network.
 WAP : Wireless Application Protocol.
 WCDMA : Wideband Code Division Multiple Access.
 WEP : Wired Equivalent Privacy.
 WLAN : Wireless Local Area Network.
+WORM : Write Once Read Many
 WPA : Wi-Fi Protected Access.
 WPAN : Wireless Personnal Area Network.
+WRT : Work Recovery Time
 WWW : World Wide Web.
 XKMS : XML key management system.
 XLL : eXtensible Link Language.
